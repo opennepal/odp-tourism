@@ -1,0 +1,2065 @@
+Year,Airline,Country,No of tourist
+2012,Nepal Airlines,Afghanistan,0
+2012,Nepal Airlines,Argentina,11
+2012,Nepal Airlines,Australia,183
+2012,Nepal Airlines,Austria,22
+2012,Nepal Airlines,Bangladesh,55
+2012,Nepal Airlines,Belgium,29
+2012,Nepal Airlines,Bhutan,8
+2012,Nepal Airlines,Brazil,22
+2012,Nepal Airlines,Bulgaria,33
+2012,Nepal Airlines,Cambodia,13
+2012,Nepal Airlines,Canada,232
+2012,Nepal Airlines,China,3290
+2012,Nepal Airlines,Czech Republic,6
+2012,Nepal Airlines,Denmark,21
+2012,Nepal Airlines,Finland,46
+2012,Nepal Airlines,France,195
+2012,Nepal Airlines,Germany,112
+2012,Nepal Airlines,Greece,34
+2012,Nepal Airlines,India,505
+2012,Nepal Airlines,Indonesia,43
+2012,Nepal Airlines,Ireland,7
+2012,Nepal Airlines,Israel,523
+2012,Nepal Airlines,Italy,67
+2012,Nepal Airlines,Japan,230
+2012,Nepal Airlines,Malaysia,3828
+2012,Nepal Airlines,Mexico,4
+2012,Nepal Airlines,Myanmar,69
+2012,Nepal Airlines,Netherland,67
+2012,Nepal Airlines,New Zealand,61
+2012,Nepal Airlines,Norway,26
+2012,Nepal Airlines,Pakistan,23
+2012,Nepal Airlines,Philippines,78
+2012,Nepal Airlines,Poland,23
+2012,Nepal Airlines,Portugal,16
+2012,Nepal Airlines,Republic of Korea,532
+2012,Nepal Airlines,Romania,10
+2012,Nepal Airlines,Russian Federation,80
+2012,Nepal Airlines,Saudi Arabia,12
+2012,Nepal Airlines,Singapore,100
+2012,Nepal Airlines,Slovakia,3
+2012,Nepal Airlines,South Africa,20
+2012,Nepal Airlines,Spain,32
+2012,Nepal Airlines,Sri Lanka,25
+2012,Nepal Airlines,Sweden,42
+2012,Nepal Airlines,Switzerland,48
+2012,Nepal Airlines,Thailand,485
+2012,Nepal Airlines,Turkey,7
+2012,Nepal Airlines,Ukraine,8
+2012,Nepal Airlines,UK,1048
+2012,Nepal Airlines,USA,310
+2012,Nepal Airlines,Vietnam,30
+2012,Nepal Airlines,Taiwan,821
+2012,Nepal Airlines,Others,458
+2012,Nepal Airlines,Not Sp,50
+2012,Indian Airlines,Afghanistan,133
+2012,Indian Airlines,Argentina,314
+2012,Indian Airlines,Australia,1076
+2012,Indian Airlines,Austria,658
+2012,Indian Airlines,Bangladesh,44
+2012,Indian Airlines,Belgium,494
+2012,Indian Airlines,Bhutan,95
+2012,Indian Airlines,Brazil,318
+2012,Indian Airlines,Bulgaria,60
+2012,Indian Airlines,Cambodia,59
+2012,Indian Airlines,Canada,1134
+2012,Indian Airlines,China,1730
+2012,Indian Airlines,Czech Republic,225
+2012,Indian Airlines,Denmark,282
+2012,Indian Airlines,Finland,330
+2012,Indian Airlines,France,5972
+2012,Indian Airlines,Germany,3702
+2012,Indian Airlines,Greece,91
+2012,Indian Airlines,India,37176
+2012,Indian Airlines,Indonesia,38
+2012,Indian Airlines,Ireland,121
+2012,Indian Airlines,Israel,1387
+2012,Indian Airlines,Italy,2980
+2012,Indian Airlines,Japan,988
+2012,Indian Airlines,Malaysia,269
+2012,Indian Airlines,Mexico,390
+2012,Indian Airlines,Myanmar,83
+2012,Indian Airlines,Netherland,819
+2012,Indian Airlines,New Zealand,237
+2012,Indian Airlines,Norway,157
+2012,Indian Airlines,Pakistan,33
+2012,Indian Airlines,Philippines,42
+2012,Indian Airlines,Poland,542
+2012,Indian Airlines,Portugal,128
+2012,Indian Airlines,Republic of Korea,795
+2012,Indian Airlines,Romania,93
+2012,Indian Airlines,Russian Federation,1121
+2012,Indian Airlines,Saudi Arabia,70
+2012,Indian Airlines,Singapore,48
+2012,Indian Airlines,Slovakia,88
+2012,Indian Airlines,South Africa,88
+2012,Indian Airlines,Spain,3291
+2012,Indian Airlines,Sri Lanka,58
+2012,Indian Airlines,Sweden,388
+2012,Indian Airlines,Switzerland,548
+2012,Indian Airlines,Thailand,87
+2012,Indian Airlines,Turkey,291
+2012,Indian Airlines,Ukraine,126
+2012,Indian Airlines,UK,3308
+2012,Indian Airlines,USA,5899
+2012,Indian Airlines,Vietnam,28
+2012,Indian Airlines,Taiwan,205
+2012,Indian Airlines,Others,1915
+2012,Indian Airlines,Not Sp,489
+2012,Thai Airlines,Afghanistan,44
+2012,Thai Airlines,Argentina,27
+2012,Thai Airlines,Australia,4989
+2012,Thai Airlines,Austria,83
+2012,Thai Airlines,Bangladesh,56
+2012,Thai Airlines,Belgium,130
+2012,Thai Airlines,Bhutan,90
+2012,Thai Airlines,Brazil,84
+2012,Thai Airlines,Bulgaria,30
+2012,Thai Airlines,Cambodia,108
+2012,Thai Airlines,Canada,883
+2012,Thai Airlines,China,691
+2012,Thai Airlines,Czech Republic,19
+2012,Thai Airlines,Denmark,261
+2012,Thai Airlines,Finland,141
+2012,Thai Airlines,France,568
+2012,Thai Airlines,Germany,788
+2012,Thai Airlines,Greece,37
+2012,Thai Airlines,India,927
+2012,Thai Airlines,Indonesia,412
+2012,Thai Airlines,Ireland,105
+2012,Thai Airlines,Israel,533
+2012,Thai Airlines,Italy,263
+2012,Thai Airlines,Japan,10600
+2012,Thai Airlines,Malaysia,3316
+2012,Thai Airlines,Mexico,66
+2012,Thai Airlines,Myanmar,481
+2012,Thai Airlines,Netherland,303
+2012,Thai Airlines,New Zealand,794
+2012,Thai Airlines,Norway,297
+2012,Thai Airlines,Pakistan,83
+2012,Thai Airlines,Philippines,475
+2012,Thai Airlines,Poland,60
+2012,Thai Airlines,Portugal,34
+2012,Thai Airlines,Republic of Korea,2289
+2012,Thai Airlines,Romania,39
+2012,Thai Airlines,Russian Federation,156
+2012,Thai Airlines,Saudi Arabia,24
+2012,Thai Airlines,Singapore,1491
+2012,Thai Airlines,Slovakia,40
+2012,Thai Airlines,South Africa,24
+2012,Thai Airlines,Spain,213
+2012,Thai Airlines,Sri Lanka,383
+2012,Thai Airlines,Sweden,162
+2012,Thai Airlines,Switzerland,390
+2012,Thai Airlines,Thailand,4952
+2012,Thai Airlines,Turkey,14
+2012,Thai Airlines,Ukraine,48
+2012,Thai Airlines,UK,1509
+2012,Thai Airlines,USA,4753
+2012,Thai Airlines,Vietnam,550
+2012,Thai Airlines,Taiwan,1508
+2012,Thai Airlines,Others,1202
+2012,Thai Airlines,Not Sp,105
+2012,Qatar Airlines,Afghanistan,25
+2012,Qatar Airlines,Argentina,85
+2012,Qatar Airlines,Australia,479
+2012,Qatar Airlines,Austria,723
+2012,Qatar Airlines,Bangladesh,65
+2012,Qatar Airlines,Belgium,1388
+2012,Qatar Airlines,Bhutan,108
+2012,Qatar Airlines,Brazil,213
+2012,Qatar Airlines,Bulgaria,86
+2012,Qatar Airlines,Cambodia,11
+2012,Qatar Airlines,Canada,1438
+2012,Qatar Airlines,China,407
+2012,Qatar Airlines,Czech Republic,139
+2012,Qatar Airlines,Denmark,2094
+2012,Qatar Airlines,Finland,209
+2012,Qatar Airlines,France,6846
+2012,Qatar Airlines,Germany,5804
+2012,Qatar Airlines,Greece,147
+2012,Qatar Airlines,India,1248
+2012,Qatar Airlines,Indonesia,50
+2012,Qatar Airlines,Ireland,183
+2012,Qatar Airlines,Israel,251
+2012,Qatar Airlines,Italy,3633
+2012,Qatar Airlines,Japan,121
+2012,Qatar Airlines,Malaysia,75
+2012,Qatar Airlines,Mexico,41
+2012,Qatar Airlines,Myanmar,37
+2012,Qatar Airlines,Netherland,3046
+2012,Qatar Airlines,New Zealand,92
+2012,Qatar Airlines,Norway,965
+2012,Qatar Airlines,Pakistan,429
+2012,Qatar Airlines,Philippines,119
+2012,Qatar Airlines,Poland,1088
+2012,Qatar Airlines,Portugal,150
+2012,Qatar Airlines,Republic of Korea,129
+2012,Qatar Airlines,Romania,144
+2012,Qatar Airlines,Russian Federation,1429
+2012,Qatar Airlines,Saudi Arabia,174
+2012,Qatar Airlines,Singapore,28
+2012,Qatar Airlines,Slovakia,212
+2012,Qatar Airlines,South Africa,254
+2012,Qatar Airlines,Spain,3458
+2012,Qatar Airlines,Sri Lanka,258
+2012,Qatar Airlines,Sweden,1103
+2012,Qatar Airlines,Switzerland,1799
+2012,Qatar Airlines,Thailand,26
+2012,Qatar Airlines,Turkey,195
+2012,Qatar Airlines,Ukraine,55
+2012,Qatar Airlines,UK,7788
+2012,Qatar Airlines,USA,6159
+2012,Qatar Airlines,Vietnam,10
+2012,Qatar Airlines,Taiwan,16
+2012,Qatar Airlines,Others,2858
+2012,Qatar Airlines,Not Sp,135
+2012,Gulf Air,Afghanistan,28
+2012,Gulf Air,Argentina,3
+2012,Gulf Air,Australia,71
+2012,Gulf Air,Austria,26
+2012,Gulf Air,Bangladesh,16
+2012,Gulf Air,Belgium,101
+2012,Gulf Air,Bhutan,58
+2012,Gulf Air,Brazil,10
+2012,Gulf Air,Bulgaria,2
+2012,Gulf Air,Cambodia,2
+2012,Gulf Air,Canada,226
+2012,Gulf Air,China,69
+2012,Gulf Air,Czech Republic,9
+2012,Gulf Air,Denmark,1248
+2012,Gulf Air,Finland,50
+2012,Gulf Air,France,1487
+2012,Gulf Air,Germany,826
+2012,Gulf Air,Greece,47
+2012,Gulf Air,India,589
+2012,Gulf Air,Indonesia,1
+2012,Gulf Air,Ireland,62
+2012,Gulf Air,Israel,121
+2012,Gulf Air,Italy,91
+2012,Gulf Air,Japan,22
+2012,Gulf Air,Malaysia,51
+2012,Gulf Air,Mexico,8
+2012,Gulf Air,Myanmar,0
+2012,Gulf Air,Netherland,114
+2012,Gulf Air,New Zealand,15
+2012,Gulf Air,Norway,142
+2012,Gulf Air,Pakistan,88
+2012,Gulf Air,Philippines,36
+2012,Gulf Air,Poland,16
+2012,Gulf Air,Portugal,29
+2012,Gulf Air,Republic of Korea,37
+2012,Gulf Air,Romania,15
+2012,Gulf Air,Russian Federation,34
+2012,Gulf Air,Saudi Arabia,219
+2012,Gulf Air,Singapore,9
+2012,Gulf Air,Slovakia,14
+2012,Gulf Air,South Africa,8
+2012,Gulf Air,Spain,122
+2012,Gulf Air,Sri Lanka,30
+2012,Gulf Air,Sweden,134
+2012,Gulf Air,Switzerland,63
+2012,Gulf Air,Thailand,3
+2012,Gulf Air,Turkey,26
+2012,Gulf Air,Ukraine,8
+2012,Gulf Air,UK,1800
+2012,Gulf Air,USA,2277
+2012,Gulf Air,Vietnam,10
+2012,Gulf Air,Taiwan,2
+2012,Gulf Air,Others,848
+2012,Gulf Air,Not Sp,57
+2012,Biman Bangladesh,Afghanistan,6
+2012,Biman Bangladesh,Argentina,12
+2012,Biman Bangladesh,Australia,183
+2012,Biman Bangladesh,Austria,10
+2012,Biman Bangladesh,Bangladesh,13965
+2012,Biman Bangladesh,Belgium,25
+2012,Biman Bangladesh,Bhutan,16
+2012,Biman Bangladesh,Brazil,2
+2012,Biman Bangladesh,Bulgaria,18
+2012,Biman Bangladesh,Cambodia,0
+2012,Biman Bangladesh,Canada,241
+2012,Biman Bangladesh,China,269
+2012,Biman Bangladesh,Czech Republic,4
+2012,Biman Bangladesh,Denmark,68
+2012,Biman Bangladesh,Finland,43
+2012,Biman Bangladesh,France,105
+2012,Biman Bangladesh,Germany,198
+2012,Biman Bangladesh,Greece,5
+2012,Biman Bangladesh,India,294
+2012,Biman Bangladesh,Indonesia,38
+2012,Biman Bangladesh,Ireland,19
+2012,Biman Bangladesh,Israel,12
+2012,Biman Bangladesh,Italy,74
+2012,Biman Bangladesh,Japan,254
+2012,Biman Bangladesh,Malaysia,65
+2012,Biman Bangladesh,Mexico,13
+2012,Biman Bangladesh,Myanmar,4
+2012,Biman Bangladesh,Netherland,50
+2012,Biman Bangladesh,New Zealand,14
+2012,Biman Bangladesh,Norway,29
+2012,Biman Bangladesh,Pakistan,381
+2012,Biman Bangladesh,Philippines,44
+2012,Biman Bangladesh,Poland,6
+2012,Biman Bangladesh,Portugal,8
+2012,Biman Bangladesh,Republic of Korea,159
+2012,Biman Bangladesh,Romania,2
+2012,Biman Bangladesh,Russian Federation,25
+2012,Biman Bangladesh,Saudi Arabia,31
+2012,Biman Bangladesh,Singapore,9
+2012,Biman Bangladesh,Slovakia,1
+2012,Biman Bangladesh,South Africa,5
+2012,Biman Bangladesh,Spain,52
+2012,Biman Bangladesh,Sri Lanka,60
+2012,Biman Bangladesh,Sweden,96
+2012,Biman Bangladesh,Switzerland,58
+2012,Biman Bangladesh,Thailand,17
+2012,Biman Bangladesh,Turkey,23
+2012,Biman Bangladesh,Ukraine,3
+2012,Biman Bangladesh,UK,294
+2012,Biman Bangladesh,USA,767
+2012,Biman Bangladesh,Vietnam,0
+2012,Biman Bangladesh,Taiwan,30
+2012,Biman Bangladesh,Others,178
+2012,Biman Bangladesh,Not Sp,49
+2012,Silk Air,Afghanistan,24
+2012,Silk Air,Argentina,4
+2012,Silk Air,Australia,4387
+2012,Silk Air,Austria,31
+2012,Silk Air,Bangladesh,12
+2012,Silk Air,Belgium,24
+2012,Silk Air,Bhutan,43
+2012,Silk Air,Brazil,17
+2012,Silk Air,Bulgaria,4
+2012,Silk Air,Cambodia,1
+2012,Silk Air,Canada,130
+2012,Silk Air,China,157
+2012,Silk Air,Czech Republic,3
+2012,Silk Air,Denmark,15
+2012,Silk Air,Finland,13
+2012,Silk Air,France,112
+2012,Silk Air,Germany,115
+2012,Silk Air,Greece,5
+2012,Silk Air,India,238
+2012,Silk Air,Indonesia,150
+2012,Silk Air,Ireland,25
+2012,Silk Air,Israel,48
+2012,Silk Air,Italy,10
+2012,Silk Air,Japan,976
+2012,Silk Air,Malaysia,511
+2012,Silk Air,Mexico,5
+2012,Silk Air,Myanmar,2
+2012,Silk Air,Netherland,128
+2012,Silk Air,New Zealand,689
+2012,Silk Air,Norway,13
+2012,Silk Air,Pakistan,24
+2012,Silk Air,Philippines,46
+2012,Silk Air,Poland,17
+2012,Silk Air,Portugal,3
+2012,Silk Air,Republic of Korea,145
+2012,Silk Air,Romania,5
+2012,Silk Air,Russian Federation,17
+2012,Silk Air,Saudi Arabia,1
+2012,Silk Air,Singapore,2066
+2012,Silk Air,Slovakia,4
+2012,Silk Air,South Africa,15
+2012,Silk Air,Spain,24
+2012,Silk Air,Sri Lanka,56
+2012,Silk Air,Sweden,10
+2012,Silk Air,Switzerland,40
+2012,Silk Air,Thailand,20
+2012,Silk Air,Turkey,0
+2012,Silk Air,Ukraine,26
+2012,Silk Air,UK,489
+2012,Silk Air,USA,1938
+2012,Silk Air,Vietnam,8
+2012,Silk Air,Taiwan,88
+2012,Silk Air,Others,259
+2012,Silk Air,Not Sp,19
+2012,Druk Air,Afghanistan,8
+2012,Druk Air,Argentina,22
+2012,Druk Air,Australia,374
+2012,Druk Air,Austria,107
+2012,Druk Air,Bangladesh,69
+2012,Druk Air,Belgium,162
+2012,Druk Air,Bhutan,2597
+2012,Druk Air,Brazil,89
+2012,Druk Air,Bulgaria,12
+2012,Druk Air,Cambodia,4
+2012,Druk Air,Canada,257
+2012,Druk Air,China,1864
+2012,Druk Air,Czech Republic,114
+2012,Druk Air,Denmark,102
+2012,Druk Air,Finland,32
+2012,Druk Air,France,393
+2012,Druk Air,Germany,765
+2012,Druk Air,Greece,5
+2012,Druk Air,India,295
+2012,Druk Air,Indonesia,9
+2012,Druk Air,Ireland,22
+2012,Druk Air,Israel,62
+2012,Druk Air,Italy,231
+2012,Druk Air,Japan,316
+2012,Druk Air,Malaysia,854
+2012,Druk Air,Mexico,56
+2012,Druk Air,Myanmar,3
+2012,Druk Air,Netherland,240
+2012,Druk Air,New Zealand,36
+2012,Druk Air,Norway,40
+2012,Druk Air,Pakistan,48
+2012,Druk Air,Philippines,90
+2012,Druk Air,Poland,50
+2012,Druk Air,Portugal,31
+2012,Druk Air,Republic of Korea,206
+2012,Druk Air,Romania,32
+2012,Druk Air,Russian Federation,145
+2012,Druk Air,Saudi Arabia,2
+2012,Druk Air,Singapore,65
+2012,Druk Air,Slovakia,17
+2012,Druk Air,South Africa,25
+2012,Druk Air,Spain,352
+2012,Druk Air,Sri Lanka,9
+2012,Druk Air,Sweden,42
+2012,Druk Air,Switzerland,117
+2012,Druk Air,Thailand,19
+2012,Druk Air,Turkey,75
+2012,Druk Air,Ukraine,0
+2012,Druk Air,UK,736
+2012,Druk Air,USA,1047
+2012,Druk Air,Vietnam,0
+2012,Druk Air,Taiwan,198
+2012,Druk Air,Others,157
+2012,Druk Air,Not Sp,55
+2012,Pakisthan Int'l Airlines,Afghanistan,3
+2012,Pakisthan Int'l Airlines,Argentina,0
+2012,Pakisthan Int'l Airlines,Australia,3
+2012,Pakisthan Int'l Airlines,Austria,1
+2012,Pakisthan Int'l Airlines,Bangladesh,2
+2012,Pakisthan Int'l Airlines,Belgium,3
+2012,Pakisthan Int'l Airlines,Bhutan,11
+2012,Pakisthan Int'l Airlines,Brazil,0
+2012,Pakisthan Int'l Airlines,Bulgaria,0
+2012,Pakisthan Int'l Airlines,Cambodia,0
+2012,Pakisthan Int'l Airlines,Canada,33
+2012,Pakisthan Int'l Airlines,China,46
+2012,Pakisthan Int'l Airlines,Czech Republic,2
+2012,Pakisthan Int'l Airlines,Denmark,1
+2012,Pakisthan Int'l Airlines,Finland,1
+2012,Pakisthan Int'l Airlines,France,13
+2012,Pakisthan Int'l Airlines,Germany,16
+2012,Pakisthan Int'l Airlines,Greece,1
+2012,Pakisthan Int'l Airlines,India,13
+2012,Pakisthan Int'l Airlines,Indonesia,0
+2012,Pakisthan Int'l Airlines,Ireland,1
+2012,Pakisthan Int'l Airlines,Israel,0
+2012,Pakisthan Int'l Airlines,Italy,3
+2012,Pakisthan Int'l Airlines,Japan,10
+2012,Pakisthan Int'l Airlines,Malaysia,3
+2012,Pakisthan Int'l Airlines,Mexico,0
+2012,Pakisthan Int'l Airlines,Myanmar,0
+2012,Pakisthan Int'l Airlines,Netherland,6
+2012,Pakisthan Int'l Airlines,New Zealand,2
+2012,Pakisthan Int'l Airlines,Norway,0
+2012,Pakisthan Int'l Airlines,Pakistan,3097
+2012,Pakisthan Int'l Airlines,Philippines,3
+2012,Pakisthan Int'l Airlines,Poland,6
+2012,Pakisthan Int'l Airlines,Portugal,0
+2012,Pakisthan Int'l Airlines,Republic of Korea,20
+2012,Pakisthan Int'l Airlines,Romania,0
+2012,Pakisthan Int'l Airlines,Russian Federation,2
+2012,Pakisthan Int'l Airlines,Saudi Arabia,2
+2012,Pakisthan Int'l Airlines,Singapore,3
+2012,Pakisthan Int'l Airlines,Slovakia,0
+2012,Pakisthan Int'l Airlines,South Africa,2
+2012,Pakisthan Int'l Airlines,Spain,5
+2012,Pakisthan Int'l Airlines,Sri Lanka,2
+2012,Pakisthan Int'l Airlines,Sweden,3
+2012,Pakisthan Int'l Airlines,Switzerland,1
+2012,Pakisthan Int'l Airlines,Thailand,0
+2012,Pakisthan Int'l Airlines,Turkey,1
+2012,Pakisthan Int'l Airlines,Ukraine,0
+2012,Pakisthan Int'l Airlines,UK,29
+2012,Pakisthan Int'l Airlines,USA,40
+2012,Pakisthan Int'l Airlines,Vietnam,0
+2012,Pakisthan Int'l Airlines,Taiwan,10
+2012,Pakisthan Int'l Airlines,Others,26
+2012,Pakisthan Int'l Airlines,Not Sp,25
+2012,Jet Airways,Afghanistan,62
+2012,Jet Airways,Argentina,130
+2012,Jet Airways,Australia,1367
+2012,Jet Airways,Austria,274
+2012,Jet Airways,Bangladesh,96
+2012,Jet Airways,Belgium,863
+2012,Jet Airways,Bhutan,95
+2012,Jet Airways,Brazil,129
+2012,Jet Airways,Bulgaria,69
+2012,Jet Airways,Cambodia,11
+2012,Jet Airways,Canada,2427
+2012,Jet Airways,China,2435
+2012,Jet Airways,Czech Republic,829
+2012,Jet Airways,Denmark,396
+2012,Jet Airways,Finland,305
+2012,Jet Airways,France,2306
+2012,Jet Airways,Germany,1692
+2012,Jet Airways,Greece,84
+2012,Jet Airways,India,30729
+2012,Jet Airways,Indonesia,74
+2012,Jet Airways,Ireland,338
+2012,Jet Airways,Israel,1534
+2012,Jet Airways,Italy,1872
+2012,Jet Airways,Japan,733
+2012,Jet Airways,Malaysia,254
+2012,Jet Airways,Mexico,170
+2012,Jet Airways,Myanmar,49
+2012,Jet Airways,Netherland,1722
+2012,Jet Airways,New Zealand,250
+2012,Jet Airways,Norway,459
+2012,Jet Airways,Pakistan,68
+2012,Jet Airways,Philippines,104
+2012,Jet Airways,Poland,708
+2012,Jet Airways,Portugal,181
+2012,Jet Airways,Republic of Korea,240
+2012,Jet Airways,Romania,72
+2012,Jet Airways,Russian Federation,1980
+2012,Jet Airways,Saudi Arabia,147
+2012,Jet Airways,Singapore,267
+2012,Jet Airways,Slovakia,241
+2012,Jet Airways,South Africa,128
+2012,Jet Airways,Spain,1380
+2012,Jet Airways,Sri Lanka,838
+2012,Jet Airways,Sweden,377
+2012,Jet Airways,Switzerland,643
+2012,Jet Airways,Thailand,109
+2012,Jet Airways,Turkey,212
+2012,Jet Airways,Ukraine,120
+2012,Jet Airways,UK,9414
+2012,Jet Airways,USA,5997
+2012,Jet Airways,Vietnam,19
+2012,Jet Airways,Taiwan,128
+2012,Jet Airways,Others,1908
+2012,Jet Airways,Not Sp,357
+2012,Air China,Afghanistan,0
+2012,Air China,Argentina,10
+2012,Air China,Australia,271
+2012,Air China,Austria,19
+2012,Air China,Bangladesh,1
+2012,Air China,Belgium,33
+2012,Air China,Bhutan,20
+2012,Air China,Brazil,35
+2012,Air China,Bulgaria,10
+2012,Air China,Cambodia,1
+2012,Air China,Canada,170
+2012,Air China,China,13595
+2012,Air China,Czech Republic,86
+2012,Air China,Denmark,66
+2012,Air China,Finland,19
+2012,Air China,France,221
+2012,Air China,Germany,365
+2012,Air China,Greece,0
+2012,Air China,India,79
+2012,Air China,Indonesia,12
+2012,Air China,Ireland,10
+2012,Air China,Israel,50
+2012,Air China,Italy,117
+2012,Air China,Japan,349
+2012,Air China,Malaysia,84
+2012,Air China,Mexico,30
+2012,Air China,Myanmar,5
+2012,Air China,Netherland,117
+2012,Air China,New Zealand,38
+2012,Air China,Norway,4
+2012,Air China,Pakistan,3
+2012,Air China,Philippines,1
+2012,Air China,Poland,15
+2012,Air China,Portugal,9
+2012,Air China,Republic of Korea,219
+2012,Air China,Romania,26
+2012,Air China,Russian Federation,128
+2012,Air China,Saudi Arabia,1
+2012,Air China,Singapore,21
+2012,Air China,Slovakia,14
+2012,Air China,South Africa,38
+2012,Air China,Spain,129
+2012,Air China,Sri Lanka,0
+2012,Air China,Sweden,37
+2012,Air China,Switzerland,41
+2012,Air China,Thailand,20
+2012,Air China,Turkey,9
+2012,Air China,Ukraine,10
+2012,Air China,UK,196
+2012,Air China,USA,720
+2012,Air China,Vietnam,11
+2012,Air China,Taiwan,70
+2012,Air China,Others,200
+2012,Air China,Not Sp,138
+2012,Jet Lite Ltd.,Afghanistan,4
+2012,Jet Lite Ltd.,Argentina,29
+2012,Jet Lite Ltd.,Australia,341
+2012,Jet Lite Ltd.,Austria,97
+2012,Jet Lite Ltd.,Bangladesh,9
+2012,Jet Lite Ltd.,Belgium,192
+2012,Jet Lite Ltd.,Bhutan,11
+2012,Jet Lite Ltd.,Brazil,58
+2012,Jet Lite Ltd.,Bulgaria,6
+2012,Jet Lite Ltd.,Cambodia,1
+2012,Jet Lite Ltd.,Canada,560
+2012,Jet Lite Ltd.,China,436
+2012,Jet Lite Ltd.,Czech Republic,217
+2012,Jet Lite Ltd.,Denmark,224
+2012,Jet Lite Ltd.,Finland,214
+2012,Jet Lite Ltd.,France,741
+2012,Jet Lite Ltd.,Germany,605
+2012,Jet Lite Ltd.,Greece,10
+2012,Jet Lite Ltd.,India,12074
+2012,Jet Lite Ltd.,Indonesia,10
+2012,Jet Lite Ltd.,Ireland,113
+2012,Jet Lite Ltd.,Israel,95
+2012,Jet Lite Ltd.,Italy,716
+2012,Jet Lite Ltd.,Japan,127
+2012,Jet Lite Ltd.,Malaysia,37
+2012,Jet Lite Ltd.,Mexico,79
+2012,Jet Lite Ltd.,Myanmar,6
+2012,Jet Lite Ltd.,Netherland,337
+2012,Jet Lite Ltd.,New Zealand,97
+2012,Jet Lite Ltd.,Norway,117
+2012,Jet Lite Ltd.,Pakistan,5
+2012,Jet Lite Ltd.,Philippines,26
+2012,Jet Lite Ltd.,Poland,579
+2012,Jet Lite Ltd.,Portugal,77
+2012,Jet Lite Ltd.,Republic of Korea,112
+2012,Jet Lite Ltd.,Romania,30
+2012,Jet Lite Ltd.,Russian Federation,352
+2012,Jet Lite Ltd.,Saudi Arabia,27
+2012,Jet Lite Ltd.,Singapore,18
+2012,Jet Lite Ltd.,Slovakia,50
+2012,Jet Lite Ltd.,South Africa,20
+2012,Jet Lite Ltd.,Spain,449
+2012,Jet Lite Ltd.,Sri Lanka,119
+2012,Jet Lite Ltd.,Sweden,143
+2012,Jet Lite Ltd.,Switzerland,204
+2012,Jet Lite Ltd.,Thailand,23
+2012,Jet Lite Ltd.,Turkey,14
+2012,Jet Lite Ltd.,Ukraine,34
+2012,Jet Lite Ltd.,UK,2188
+2012,Jet Lite Ltd.,USA,1303
+2012,Jet Lite Ltd.,Vietnam,5
+2012,Jet Lite Ltd.,Taiwan,13
+2012,Jet Lite Ltd.,Others,377
+2012,Jet Lite Ltd.,Not Sp,135
+2012,Korean Air,Afghanistan,0
+2012,Korean Air,Argentina,0
+2012,Korean Air,Australia,37
+2012,Korean Air,Austria,3
+2012,Korean Air,Bangladesh,25
+2012,Korean Air,Belgium,15
+2012,Korean Air,Bhutan,5
+2012,Korean Air,Brazil,0
+2012,Korean Air,Bulgaria,3
+2012,Korean Air,Cambodia,0
+2012,Korean Air,Canada,231
+2012,Korean Air,China,375
+2012,Korean Air,Czech Republic,6
+2012,Korean Air,Denmark,9
+2012,Korean Air,Finland,8
+2012,Korean Air,France,45
+2012,Korean Air,Germany,22
+2012,Korean Air,Greece,0
+2012,Korean Air,India,47
+2012,Korean Air,Indonesia,1
+2012,Korean Air,Ireland,4
+2012,Korean Air,Israel,46
+2012,Korean Air,Italy,16
+2012,Korean Air,Japan,723
+2012,Korean Air,Malaysia,2
+2012,Korean Air,Mexico,8
+2012,Korean Air,Myanmar,12
+2012,Korean Air,Netherland,24
+2012,Korean Air,New Zealand,38
+2012,Korean Air,Norway,6
+2012,Korean Air,Pakistan,50
+2012,Korean Air,Philippines,2
+2012,Korean Air,Poland,30
+2012,Korean Air,Portugal,1
+2012,Korean Air,Republic of Korea,11427
+2012,Korean Air,Romania,4
+2012,Korean Air,Russian Federation,39
+2012,Korean Air,Saudi Arabia,2
+2012,Korean Air,Singapore,4
+2012,Korean Air,Slovakia,1
+2012,Korean Air,South Africa,6
+2012,Korean Air,Spain,16
+2012,Korean Air,Sri Lanka,1
+2012,Korean Air,Sweden,15
+2012,Korean Air,Switzerland,2
+2012,Korean Air,Thailand,0
+2012,Korean Air,Turkey,0
+2012,Korean Air,Ukraine,3
+2012,Korean Air,UK,31
+2012,Korean Air,USA,1375
+2012,Korean Air,Vietnam,2
+2012,Korean Air,Taiwan,41
+2012,Korean Air,Others,156
+2012,Korean Air,Not Sp,33
+2012,Etihad Airway,Afghanistan,7
+2012,Etihad Airway,Argentina,4
+2012,Etihad Airway,Australia,353
+2012,Etihad Airway,Austria,347
+2012,Etihad Airway,Bangladesh,17
+2012,Etihad Airway,Belgium,1043
+2012,Etihad Airway,Bhutan,21
+2012,Etihad Airway,Brazil,10
+2012,Etihad Airway,Bulgaria,9
+2012,Etihad Airway,Cambodia,0
+2012,Etihad Airway,Canada,266
+2012,Etihad Airway,China,101
+2012,Etihad Airway,Czech Republic,64
+2012,Etihad Airway,Denmark,79
+2012,Etihad Airway,Finland,212
+2012,Etihad Airway,France,3006
+2012,Etihad Airway,Germany,4226
+2012,Etihad Airway,Greece,11
+2012,Etihad Airway,India,419
+2012,Etihad Airway,Indonesia,12
+2012,Etihad Airway,Ireland,248
+2012,Etihad Airway,Israel,17
+2012,Etihad Airway,Italy,668
+2012,Etihad Airway,Japan,160
+2012,Etihad Airway,Malaysia,8
+2012,Etihad Airway,Mexico,7
+2012,Etihad Airway,Myanmar,10
+2012,Etihad Airway,Netherland,287
+2012,Etihad Airway,New Zealand,61
+2012,Etihad Airway,Norway,305
+2012,Etihad Airway,Pakistan,292
+2012,Etihad Airway,Philippines,40
+2012,Etihad Airway,Poland,97
+2012,Etihad Airway,Portugal,107
+2012,Etihad Airway,Republic of Korea,41
+2012,Etihad Airway,Romania,22
+2012,Etihad Airway,Russian Federation,110
+2012,Etihad Airway,Saudi Arabia,97
+2012,Etihad Airway,Singapore,1
+2012,Etihad Airway,Slovakia,50
+2012,Etihad Airway,South Africa,40
+2012,Etihad Airway,Spain,155
+2012,Etihad Airway,Sri Lanka,24
+2012,Etihad Airway,Sweden,191
+2012,Etihad Airway,Switzerland,447
+2012,Etihad Airway,Thailand,24
+2012,Etihad Airway,Turkey,14
+2012,Etihad Airway,Ukraine,41
+2012,Etihad Airway,UK,2226
+2012,Etihad Airway,USA,747
+2012,Etihad Airway,Vietnam,2
+2012,Etihad Airway,Taiwan,8
+2012,Etihad Airway,Others,760
+2012,Etihad Airway,Not Sp,45
+2012,Air Arabia,Afghanistan,24
+2012,Air Arabia,Argentina,6
+2012,Air Arabia,Australia,67
+2012,Air Arabia,Austria,9
+2012,Air Arabia,Bangladesh,61
+2012,Air Arabia,Belgium,40
+2012,Air Arabia,Bhutan,12
+2012,Air Arabia,Brazil,8
+2012,Air Arabia,Bulgaria,149
+2012,Air Arabia,Cambodia,3
+2012,Air Arabia,Canada,60
+2012,Air Arabia,China,24
+2012,Air Arabia,Czech Republic,4
+2012,Air Arabia,Denmark,10
+2012,Air Arabia,Finland,11
+2012,Air Arabia,France,107
+2012,Air Arabia,Germany,78
+2012,Air Arabia,Greece,13
+2012,Air Arabia,India,1842
+2012,Air Arabia,Indonesia,1
+2012,Air Arabia,Ireland,28
+2012,Air Arabia,Israel,22
+2012,Air Arabia,Italy,31
+2012,Air Arabia,Japan,30
+2012,Air Arabia,Malaysia,3
+2012,Air Arabia,Mexico,2
+2012,Air Arabia,Myanmar,11
+2012,Air Arabia,Netherland,226
+2012,Air Arabia,New Zealand,14
+2012,Air Arabia,Norway,5
+2012,Air Arabia,Pakistan,133
+2012,Air Arabia,Philippines,67
+2012,Air Arabia,Poland,72
+2012,Air Arabia,Portugal,17
+2012,Air Arabia,Republic of Korea,45
+2012,Air Arabia,Romania,118
+2012,Air Arabia,Russian Federation,302
+2012,Air Arabia,Saudi Arabia,73
+2012,Air Arabia,Singapore,11
+2012,Air Arabia,Slovakia,18
+2012,Air Arabia,South Africa,28
+2012,Air Arabia,Spain,90
+2012,Air Arabia,Sri Lanka,38
+2012,Air Arabia,Sweden,17
+2012,Air Arabia,Switzerland,17
+2012,Air Arabia,Thailand,4
+2012,Air Arabia,Turkey,386
+2012,Air Arabia,Ukraine,458
+2012,Air Arabia,UK,328
+2012,Air Arabia,USA,122
+2012,Air Arabia,Vietnam,2
+2012,Air Arabia,Taiwan,5
+2012,Air Arabia,Others,669
+2012,Air Arabia,Not Sp,54
+2012,Baharain Air,Afghanistan,0
+2012,Baharain Air,Argentina,0
+2012,Baharain Air,Australia,3
+2012,Baharain Air,Austria,0
+2012,Baharain Air,Bangladesh,1
+2012,Baharain Air,Belgium,0
+2012,Baharain Air,Bhutan,0
+2012,Baharain Air,Brazil,0
+2012,Baharain Air,Bulgaria,0
+2012,Baharain Air,Cambodia,0
+2012,Baharain Air,Canada,10
+2012,Baharain Air,China,0
+2012,Baharain Air,Czech Republic,0
+2012,Baharain Air,Denmark,0
+2012,Baharain Air,Finland,0
+2012,Baharain Air,France,4
+2012,Baharain Air,Germany,0
+2012,Baharain Air,Greece,0
+2012,Baharain Air,India,14
+2012,Baharain Air,Indonesia,0
+2012,Baharain Air,Ireland,0
+2012,Baharain Air,Israel,0
+2012,Baharain Air,Italy,0
+2012,Baharain Air,Japan,0
+2012,Baharain Air,Malaysia,0
+2012,Baharain Air,Mexico,3
+2012,Baharain Air,Myanmar,0
+2012,Baharain Air,Netherland,2
+2012,Baharain Air,New Zealand,0
+2012,Baharain Air,Norway,0
+2012,Baharain Air,Pakistan,0
+2012,Baharain Air,Philippines,1
+2012,Baharain Air,Poland,0
+2012,Baharain Air,Portugal,0
+2012,Baharain Air,Republic of Korea,1
+2012,Baharain Air,Romania,0
+2012,Baharain Air,Russian Federation,0
+2012,Baharain Air,Saudi Arabia,1
+2012,Baharain Air,Singapore,0
+2012,Baharain Air,Slovakia,2
+2012,Baharain Air,South Africa,0
+2012,Baharain Air,Spain,0
+2012,Baharain Air,Sri Lanka,0
+2012,Baharain Air,Sweden,0
+2012,Baharain Air,Switzerland,0
+2012,Baharain Air,Thailand,0
+2012,Baharain Air,Turkey,0
+2012,Baharain Air,Ukraine,0
+2012,Baharain Air,UK,1
+2012,Baharain Air,USA,22
+2012,Baharain Air,Vietnam,0
+2012,Baharain Air,Taiwan,0
+2012,Baharain Air,Others,12
+2012,Baharain Air,Not Sp,3
+2012,China Eastern Airlines,Afghanistan,0
+2012,China Eastern Airlines,Argentina,6
+2012,China Eastern Airlines,Australia,92
+2012,China Eastern Airlines,Austria,18
+2012,China Eastern Airlines,Bangladesh,7
+2012,China Eastern Airlines,Belgium,23
+2012,China Eastern Airlines,Bhutan,2
+2012,China Eastern Airlines,Brazil,7
+2012,China Eastern Airlines,Bulgaria,3
+2012,China Eastern Airlines,Cambodia,2
+2012,China Eastern Airlines,Canada,119
+2012,China Eastern Airlines,China,13278
+2012,China Eastern Airlines,Czech Republic,21
+2012,China Eastern Airlines,Denmark,33
+2012,China Eastern Airlines,Finland,19
+2012,China Eastern Airlines,France,108
+2012,China Eastern Airlines,Germany,103
+2012,China Eastern Airlines,Greece,5
+2012,China Eastern Airlines,India,93
+2012,China Eastern Airlines,Indonesia,6
+2012,China Eastern Airlines,Ireland,5
+2012,China Eastern Airlines,Israel,51
+2012,China Eastern Airlines,Italy,39
+2012,China Eastern Airlines,Japan,810
+2012,China Eastern Airlines,Malaysia,3
+2012,China Eastern Airlines,Mexico,15
+2012,China Eastern Airlines,Myanmar,0
+2012,China Eastern Airlines,Netherland,89
+2012,China Eastern Airlines,New Zealand,18
+2012,China Eastern Airlines,Norway,8
+2012,China Eastern Airlines,Pakistan,2
+2012,China Eastern Airlines,Philippines,0
+2012,China Eastern Airlines,Poland,11
+2012,China Eastern Airlines,Portugal,9
+2012,China Eastern Airlines,Republic of Korea,49
+2012,China Eastern Airlines,Romania,0
+2012,China Eastern Airlines,Russian Federation,56
+2012,China Eastern Airlines,Saudi Arabia,2
+2012,China Eastern Airlines,Singapore,10
+2012,China Eastern Airlines,Slovakia,6
+2012,China Eastern Airlines,South Africa,8
+2012,China Eastern Airlines,Spain,48
+2012,China Eastern Airlines,Sri Lanka,2
+2012,China Eastern Airlines,Sweden,33
+2012,China Eastern Airlines,Switzerland,36
+2012,China Eastern Airlines,Thailand,2
+2012,China Eastern Airlines,Turkey,1
+2012,China Eastern Airlines,Ukraine,1
+2012,China Eastern Airlines,UK,85
+2012,China Eastern Airlines,USA,370
+2012,China Eastern Airlines,Vietnam,1
+2012,China Eastern Airlines,Taiwan,85
+2012,China Eastern Airlines,Others,103
+2012,China Eastern Airlines,Not Sp,68
+2012,China Southern Airlines,Afghanistan,2
+2012,China Southern Airlines,Argentina,1
+2012,China Southern Airlines,Australia,1260
+2012,China Southern Airlines,Austria,8
+2012,China Southern Airlines,Bangladesh,10
+2012,China Southern Airlines,Belgium,8
+2012,China Southern Airlines,Bhutan,13
+2012,China Southern Airlines,Brazil,17
+2012,China Southern Airlines,Bulgaria,5
+2012,China Southern Airlines,Cambodia,1
+2012,China Southern Airlines,Canada,387
+2012,China Southern Airlines,China,4227
+2012,China Southern Airlines,Czech Republic,24
+2012,China Southern Airlines,Denmark,17
+2012,China Southern Airlines,Finland,23
+2012,China Southern Airlines,France,83
+2012,China Southern Airlines,Germany,76
+2012,China Southern Airlines,Greece,2
+2012,China Southern Airlines,India,696
+2012,China Southern Airlines,Indonesia,8
+2012,China Southern Airlines,Ireland,13
+2012,China Southern Airlines,Israel,21
+2012,China Southern Airlines,Italy,34
+2012,China Southern Airlines,Japan,2936
+2012,China Southern Airlines,Malaysia,14
+2012,China Southern Airlines,Mexico,12
+2012,China Southern Airlines,Myanmar,4
+2012,China Southern Airlines,Netherland,47
+2012,China Southern Airlines,New Zealand,89
+2012,China Southern Airlines,Norway,15
+2012,China Southern Airlines,Pakistan,4
+2012,China Southern Airlines,Philippines,32
+2012,China Southern Airlines,Poland,10
+2012,China Southern Airlines,Portugal,5
+2012,China Southern Airlines,Republic of Korea,1000
+2012,China Southern Airlines,Romania,5
+2012,China Southern Airlines,Russian Federation,76
+2012,China Southern Airlines,Saudi Arabia,9
+2012,China Southern Airlines,Singapore,8
+2012,China Southern Airlines,Slovakia,5
+2012,China Southern Airlines,South Africa,2
+2012,China Southern Airlines,Spain,45
+2012,China Southern Airlines,Sri Lanka,2
+2012,China Southern Airlines,Sweden,35
+2012,China Southern Airlines,Switzerland,17
+2012,China Southern Airlines,Thailand,0
+2012,China Southern Airlines,Turkey,3
+2012,China Southern Airlines,Ukraine,4
+2012,China Southern Airlines,UK,148
+2012,China Southern Airlines,USA,637
+2012,China Southern Airlines,Vietnam,41
+2012,China Southern Airlines,Taiwan,864
+2012,China Southern Airlines,Others,129
+2012,China Southern Airlines,Not Sp,47
+2012,Dragon Air,Afghanistan,4
+2012,Dragon Air,Argentina,11
+2012,Dragon Air,Australia,1836
+2012,Dragon Air,Austria,15
+2012,Dragon Air,Bangladesh,7
+2012,Dragon Air,Belgium,38
+2012,Dragon Air,Bhutan,42
+2012,Dragon Air,Brazil,13
+2012,Dragon Air,Bulgaria,3
+2012,Dragon Air,Cambodia,13
+2012,Dragon Air,Canada,1633
+2012,Dragon Air,China,7928
+2012,Dragon Air,Czech Republic,6
+2012,Dragon Air,Denmark,18
+2012,Dragon Air,Finland,36
+2012,Dragon Air,France,244
+2012,Dragon Air,Germany,186
+2012,Dragon Air,Greece,5
+2012,Dragon Air,India,430
+2012,Dragon Air,Indonesia,54
+2012,Dragon Air,Ireland,40
+2012,Dragon Air,Israel,166
+2012,Dragon Air,Italy,89
+2012,Dragon Air,Japan,4771
+2012,Dragon Air,Malaysia,301
+2012,Dragon Air,Mexico,33
+2012,Dragon Air,Myanmar,13
+2012,Dragon Air,Netherland,76
+2012,Dragon Air,New Zealand,203
+2012,Dragon Air,Norway,43
+2012,Dragon Air,Pakistan,8
+2012,Dragon Air,Philippines,256
+2012,Dragon Air,Poland,11
+2012,Dragon Air,Portugal,18
+2012,Dragon Air,Republic of Korea,817
+2012,Dragon Air,Romania,36
+2012,Dragon Air,Russian Federation,31
+2012,Dragon Air,Saudi Arabia,17
+2012,Dragon Air,Singapore,45
+2012,Dragon Air,Slovakia,12
+2012,Dragon Air,South Africa,11
+2012,Dragon Air,Spain,44
+2012,Dragon Air,Sri Lanka,10
+2012,Dragon Air,Sweden,57
+2012,Dragon Air,Switzerland,38
+2012,Dragon Air,Thailand,17
+2012,Dragon Air,Turkey,4
+2012,Dragon Air,Ukraine,2
+2012,Dragon Air,UK,742
+2012,Dragon Air,USA,3030
+2012,Dragon Air,Vietnam,19
+2012,Dragon Air,Taiwan,3506
+2012,Dragon Air,Others,325
+2012,Dragon Air,Not Sp,106
+2012,Fly Dubai,Afghanistan,39
+2012,Fly Dubai,Argentina,19
+2012,Fly Dubai,Australia,217
+2012,Fly Dubai,Austria,36
+2012,Fly Dubai,Bangladesh,29
+2012,Fly Dubai,Belgium,43
+2012,Fly Dubai,Bhutan,27
+2012,Fly Dubai,Brazil,45
+2012,Fly Dubai,Bulgaria,15
+2012,Fly Dubai,Cambodia,8
+2012,Fly Dubai,Canada,208
+2012,Fly Dubai,China,106
+2012,Fly Dubai,Czech Republic,126
+2012,Fly Dubai,Denmark,46
+2012,Fly Dubai,Finland,22
+2012,Fly Dubai,France,230
+2012,Fly Dubai,Germany,597
+2012,Fly Dubai,Greece,6
+2012,Fly Dubai,India,1248
+2012,Fly Dubai,Indonesia,9
+2012,Fly Dubai,Ireland,70
+2012,Fly Dubai,Israel,52
+2012,Fly Dubai,Italy,221
+2012,Fly Dubai,Japan,73
+2012,Fly Dubai,Malaysia,55
+2012,Fly Dubai,Mexico,10
+2012,Fly Dubai,Myanmar,15
+2012,Fly Dubai,Netherland,152
+2012,Fly Dubai,New Zealand,113
+2012,Fly Dubai,Norway,29
+2012,Fly Dubai,Pakistan,169
+2012,Fly Dubai,Philippines,139
+2012,Fly Dubai,Poland,60
+2012,Fly Dubai,Portugal,40
+2012,Fly Dubai,Republic of Korea,49
+2012,Fly Dubai,Romania,69
+2012,Fly Dubai,Russian Federation,758
+2012,Fly Dubai,Saudi Arabia,63
+2012,Fly Dubai,Singapore,18
+2012,Fly Dubai,Slovakia,16
+2012,Fly Dubai,South Africa,321
+2012,Fly Dubai,Spain,160
+2012,Fly Dubai,Sri Lanka,15
+2012,Fly Dubai,Sweden,68
+2012,Fly Dubai,Switzerland,44
+2012,Fly Dubai,Thailand,10
+2012,Fly Dubai,Turkey,21
+2012,Fly Dubai,Ukraine,307
+2012,Fly Dubai,UK,1208
+2012,Fly Dubai,USA,1665
+2012,Fly Dubai,Vietnam,5
+2012,Fly Dubai,Taiwan,12
+2012,Fly Dubai,Others,899
+2012,Fly Dubai,Not Sp,70
+2012,King Fisher,Afghanistan,6
+2012,King Fisher,Argentina,0
+2012,King Fisher,Australia,47
+2012,King Fisher,Austria,12
+2012,King Fisher,Bangladesh,7
+2012,King Fisher,Belgium,18
+2012,King Fisher,Bhutan,1
+2012,King Fisher,Brazil,10
+2012,King Fisher,Bulgaria,0
+2012,King Fisher,Cambodia,0
+2012,King Fisher,Canada,41
+2012,King Fisher,China,165
+2012,King Fisher,Czech Republic,0
+2012,King Fisher,Denmark,55
+2012,King Fisher,Finland,49
+2012,King Fisher,France,85
+2012,King Fisher,Germany,48
+2012,King Fisher,Greece,0
+2012,King Fisher,India,1770
+2012,King Fisher,Indonesia,4
+2012,King Fisher,Ireland,4
+2012,King Fisher,Israel,9
+2012,King Fisher,Italy,39
+2012,King Fisher,Japan,14
+2012,King Fisher,Malaysia,0
+2012,King Fisher,Mexico,10
+2012,King Fisher,Myanmar,0
+2012,King Fisher,Netherland,39
+2012,King Fisher,New Zealand,20
+2012,King Fisher,Norway,22
+2012,King Fisher,Pakistan,2
+2012,King Fisher,Philippines,9
+2012,King Fisher,Poland,6
+2012,King Fisher,Portugal,5
+2012,King Fisher,Republic of Korea,7
+2012,King Fisher,Romania,0
+2012,King Fisher,Russian Federation,9
+2012,King Fisher,Saudi Arabia,6
+2012,King Fisher,Singapore,0
+2012,King Fisher,Slovakia,0
+2012,King Fisher,South Africa,2
+2012,King Fisher,Spain,63
+2012,King Fisher,Sri Lanka,1
+2012,King Fisher,Sweden,3
+2012,King Fisher,Switzerland,19
+2012,King Fisher,Thailand,3
+2012,King Fisher,Turkey,5
+2012,King Fisher,Ukraine,4
+2012,King Fisher,UK,91
+2012,King Fisher,USA,203
+2012,King Fisher,Vietnam,0
+2012,King Fisher,Taiwan,2
+2012,King Fisher,Others,44
+2012,King Fisher,Not Sp,14
+2012,Oman Air,Afghanistan,2
+2012,Oman Air,Argentina,0
+2012,Oman Air,Australia,94
+2012,Oman Air,Austria,262
+2012,Oman Air,Bangladesh,3
+2012,Oman Air,Belgium,53
+2012,Oman Air,Bhutan,13
+2012,Oman Air,Brazil,14
+2012,Oman Air,Bulgaria,0
+2012,Oman Air,Cambodia,6
+2012,Oman Air,Canada,51
+2012,Oman Air,China,28
+2012,Oman Air,Czech Republic,25
+2012,Oman Air,Denmark,49
+2012,Oman Air,Finland,10
+2012,Oman Air,France,887
+2012,Oman Air,Germany,3764
+2012,Oman Air,Greece,2
+2012,Oman Air,India,296
+2012,Oman Air,Indonesia,3
+2012,Oman Air,Ireland,27
+2012,Oman Air,Israel,43
+2012,Oman Air,Italy,548
+2012,Oman Air,Japan,12
+2012,Oman Air,Malaysia,2
+2012,Oman Air,Mexico,5
+2012,Oman Air,Myanmar,2
+2012,Oman Air,Netherland,82
+2012,Oman Air,New Zealand,23
+2012,Oman Air,Norway,3
+2012,Oman Air,Pakistan,55
+2012,Oman Air,Philippines,30
+2012,Oman Air,Poland,38
+2012,Oman Air,Portugal,11
+2012,Oman Air,Republic of Korea,7
+2012,Oman Air,Romania,11
+2012,Oman Air,Russian Federation,14
+2012,Oman Air,Saudi Arabia,28
+2012,Oman Air,Singapore,2
+2012,Oman Air,Slovakia,17
+2012,Oman Air,South Africa,10
+2012,Oman Air,Spain,42
+2012,Oman Air,Sri Lanka,16
+2012,Oman Air,Sweden,8
+2012,Oman Air,Switzerland,639
+2012,Oman Air,Thailand,4
+2012,Oman Air,Turkey,5
+2012,Oman Air,Ukraine,0
+2012,Oman Air,UK,1249
+2012,Oman Air,USA,101
+2012,Oman Air,Vietnam,3
+2012,Oman Air,Taiwan,8
+2012,Oman Air,Others,358
+2012,Oman Air,Not Sp,44
+2012,Spice Jet,Afghanistan,67
+2012,Spice Jet,Argentina,61
+2012,Spice Jet,Australia,387
+2012,Spice Jet,Austria,61
+2012,Spice Jet,Bangladesh,31
+2012,Spice Jet,Belgium,105
+2012,Spice Jet,Bhutan,40
+2012,Spice Jet,Brazil,70
+2012,Spice Jet,Bulgaria,59
+2012,Spice Jet,Cambodia,26
+2012,Spice Jet,Canada,447
+2012,Spice Jet,China,2123
+2012,Spice Jet,Czech Republic,76
+2012,Spice Jet,Denmark,338
+2012,Spice Jet,Finland,189
+2012,Spice Jet,France,622
+2012,Spice Jet,Germany,484
+2012,Spice Jet,Greece,52
+2012,Spice Jet,India,42715
+2012,Spice Jet,Indonesia,36
+2012,Spice Jet,Ireland,91
+2012,Spice Jet,Israel,936
+2012,Spice Jet,Italy,351
+2012,Spice Jet,Japan,275
+2012,Spice Jet,Malaysia,157
+2012,Spice Jet,Mexico,88
+2012,Spice Jet,Myanmar,30
+2012,Spice Jet,Netherland,185
+2012,Spice Jet,New Zealand,96
+2012,Spice Jet,Norway,76
+2012,Spice Jet,Pakistan,40
+2012,Spice Jet,Philippines,32
+2012,Spice Jet,Poland,340
+2012,Spice Jet,Portugal,61
+2012,Spice Jet,Republic of Korea,332
+2012,Spice Jet,Romania,173
+2012,Spice Jet,Russian Federation,637
+2012,Spice Jet,Saudi Arabia,24
+2012,Spice Jet,Singapore,54
+2012,Spice Jet,Slovakia,43
+2012,Spice Jet,South Africa,61
+2012,Spice Jet,Spain,855
+2012,Spice Jet,Sri Lanka,38
+2012,Spice Jet,Sweden,151
+2012,Spice Jet,Switzerland,179
+2012,Spice Jet,Thailand,17
+2012,Spice Jet,Turkey,161
+2012,Spice Jet,Ukraine,118
+2012,Spice Jet,UK,769
+2012,Spice Jet,USA,1482
+2012,Spice Jet,Vietnam,31
+2012,Spice Jet,Taiwan,76
+2012,Spice Jet,Others,1119
+2012,Spice Jet,Not Sp,434
+2012,Others,Afghanistan,6
+2012,Others,Argentina,163
+2012,Others,Australia,405
+2012,Others,Austria,53
+2012,Others,Bangladesh,1219
+2012,Others,Belgium,101
+2012,Others,Bhutan,29
+2012,Others,Brazil,69
+2012,Others,Bulgaria,9
+2012,Others,Cambodia,22
+2012,Others,Canada,326
+2012,Others,China,661
+2012,Others,Czech Republic,35
+2012,Others,Denmark,137
+2012,Others,Finland,216
+2012,Others,France,507
+2012,Others,Germany,515
+2012,Others,Greece,78
+2012,Others,India,31936
+2012,Others,Indonesia,13
+2012,Others,Ireland,31
+2012,Others,Israel,314
+2012,Others,Italy,291
+2012,Others,Japan,310
+2012,Others,Malaysia,317
+2012,Others,Mexico,158
+2012,Others,Myanmar,11
+2012,Others,Netherland,1101
+2012,Others,New Zealand,60
+2012,Others,Norway,41
+2012,Others,Pakistan,17
+2012,Others,Philippines,46
+2012,Others,Poland,390
+2012,Others,Portugal,97
+2012,Others,Republic of Korea,317
+2012,Others,Romania,81
+2012,Others,Russian Federation,304
+2012,Others,Saudi Arabia,10
+2012,Others,Singapore,22
+2012,Others,Slovakia,42
+2012,Others,South Africa,89
+2012,Others,Spain,475
+2012,Others,Sri Lanka,8
+2012,Others,Sweden,97
+2012,Others,Switzerland,77
+2012,Others,Thailand,48
+2012,Others,Turkey,47
+2012,Others,Ukraine,76
+2012,Others,UK,653
+2012,Others,USA,1652
+2012,Others,Vietnam,19
+2012,Others,Taiwan,80
+2012,Others,Others,690
+2012,Others,Not Sp,220
+2013,Jet Airways,Australia,"1,064"
+2013,Jet Airways,Austria,220
+2013,Jet Airways,Bangladesh,302
+2013,Jet Airways,Belgium,565
+2013,Jet Airways,Canada,"1,587"
+2013,Jet Airways,China,"2,839"
+2013,Jet Airways,Czech Republic,288
+2013,Jet Airways,Denmark,352
+2013,Jet Airways,France,"1,563"
+2013,Jet Airways,Germany,"1,384"
+2013,Jet Airways,India,"31,927"
+2013,Jet Airways,Israel,785
+2013,Jet Airways,Italy,720
+2013,Jet Airways,Japan,516
+2013,Jet Airways,Malaysia,260
+2013,Jet Airways,Netherland,948
+2013,Jet Airways,New Zealand,230
+2013,Jet Airways,Norway,248
+2013,Jet Airways,Pakistan,124
+2013,Jet Airways,Poland,220
+2013,Jet Airways,Republic of Korea,222
+2013,Jet Airways,Russian Federation,"1,010"
+2013,Jet Airways,Singapore,308
+2013,Jet Airways,Spain,823
+2013,Jet Airways,Sri Lanka,499
+2013,Jet Airways,Sweden,374
+2013,Jet Airways,Switzerland,298
+2013,Jet Airways,Thailand,150
+2013,Jet Airways,Taiwan,95
+2013,Jet Airways,UK,"7,763"
+2013,Jet Airways,USA,"5,932"
+2013,Jet Airways,Other,"4,061"
+2013,Baharian Air,Australia,2
+2013,Baharian Air,Austria,0
+2013,Baharian Air,Bangladesh,1
+2013,Baharian Air,Belgium,0
+2013,Baharian Air,Canada,0
+2013,Baharian Air,China,2
+2013,Baharian Air,Czech Republic,0
+2013,Baharian Air,Denmark,0
+2013,Baharian Air,France,2
+2013,Baharian Air,Germany,0
+2013,Baharian Air,India,13
+2013,Baharian Air,Israel,0
+2013,Baharian Air,Italy,1
+2013,Baharian Air,Japan,0
+2013,Baharian Air,Malaysia,0
+2013,Baharian Air,Netherland,0
+2013,Baharian Air,New Zealand,0
+2013,Baharian Air,Norway,0
+2013,Baharian Air,Pakistan,0
+2013,Baharian Air,Poland,0
+2013,Baharian Air,Republic of Korea,0
+2013,Baharian Air,Russian Federation,0
+2013,Baharian Air,Singapore,0
+2013,Baharian Air,Spain,1
+2013,Baharian Air,Sri Lanka,0
+2013,Baharian Air,Sweden,3
+2013,Baharian Air,Switzerland,0
+2013,Baharian Air,Thailand,0
+2013,Baharian Air,Taiwan,0
+2013,Baharian Air,UK,3
+2013,Baharian Air,USA,2
+2013,Baharian Air,Other,30
+2013,Biman Bangladesh,Australia,356
+2013,Biman Bangladesh,Austria,1
+2013,Biman Bangladesh,Bangladesh,"9,315"
+2013,Biman Bangladesh,Belgium,32
+2013,Biman Bangladesh,Canada,175
+2013,Biman Bangladesh,China,175
+2013,Biman Bangladesh,Czech Republic,4
+2013,Biman Bangladesh,Denmark,42
+2013,Biman Bangladesh,France,63
+2013,Biman Bangladesh,Germany,78
+2013,Biman Bangladesh,India,216
+2013,Biman Bangladesh,Israel,6
+2013,Biman Bangladesh,Italy,61
+2013,Biman Bangladesh,Japan,196
+2013,Biman Bangladesh,Malaysia,624
+2013,Biman Bangladesh,Netherland,79
+2013,Biman Bangladesh,New Zealand,63
+2013,Biman Bangladesh,Norway,8
+2013,Biman Bangladesh,Pakistan,123
+2013,Biman Bangladesh,Poland,12
+2013,Biman Bangladesh,Republic of Korea,81
+2013,Biman Bangladesh,Russian Federation,19
+2013,Biman Bangladesh,Singapore,50
+2013,Biman Bangladesh,Spain,38
+2013,Biman Bangladesh,Sri Lanka,97
+2013,Biman Bangladesh,Sweden,55
+2013,Biman Bangladesh,Switzerland,31
+2013,Biman Bangladesh,Thailand,4
+2013,Biman Bangladesh,Taiwan,24
+2013,Biman Bangladesh,UK,211
+2013,Biman Bangladesh,USA,449
+2013,Biman Bangladesh,Other,387
+2013,Air China,Australia,217
+2013,Air China,Austria,10
+2013,Air China,Bangladesh,30
+2013,Air China,Belgium,34
+2013,Air China,Canada,231
+2013,Air China,China,"17,932"
+2013,Air China,Czech Republic,10
+2013,Air China,Denmark,48
+2013,Air China,France,142
+2013,Air China,Germany,255
+2013,Air China,India,234
+2013,Air China,Israel,41
+2013,Air China,Italy,107
+2013,Air China,Japan,242
+2013,Air China,Malaysia,188
+2013,Air China,Netherland,130
+2013,Air China,New Zealand,21
+2013,Air China,Norway,9
+2013,Air China,Pakistan,14
+2013,Air China,Poland,30
+2013,Air China,Republic of Korea,229
+2013,Air China,Russian Federation,170
+2013,Air China,Singapore,36
+2013,Air China,Spain,95
+2013,Air China,Sri Lanka,3
+2013,Air China,Sweden,31
+2013,Air China,Switzerland,25
+2013,Air China,Thailand,50
+2013,Air China,Taiwan,108
+2013,Air China,UK,256
+2013,Air China,USA,748
+2013,Air China,Other,"1,150"
+2013,China Eastern Airlines,Australia,142
+2013,China Eastern Airlines,Austria,7
+2013,China Eastern Airlines,Bangladesh,7
+2013,China Eastern Airlines,Belgium,22
+2013,China Eastern Airlines,Canada,232
+2013,China Eastern Airlines,China,"19,955"
+2013,China Eastern Airlines,Czech Republic,4
+2013,China Eastern Airlines,Denmark,30
+2013,China Eastern Airlines,France,221
+2013,China Eastern Airlines,Germany,244
+2013,China Eastern Airlines,India,293
+2013,China Eastern Airlines,Israel,53
+2013,China Eastern Airlines,Italy,51
+2013,China Eastern Airlines,Japan,"1,747"
+2013,China Eastern Airlines,Malaysia,49
+2013,China Eastern Airlines,Netherland,53
+2013,China Eastern Airlines,New Zealand,62
+2013,China Eastern Airlines,Norway,13
+2013,China Eastern Airlines,Pakistan,11
+2013,China Eastern Airlines,Poland,16
+2013,China Eastern Airlines,Republic of Korea,120
+2013,China Eastern Airlines,Russian Federation,119
+2013,China Eastern Airlines,Singapore,22
+2013,China Eastern Airlines,Spain,38
+2013,China Eastern Airlines,Sri Lanka,9
+2013,China Eastern Airlines,Sweden,45
+2013,China Eastern Airlines,Switzerland,63
+2013,China Eastern Airlines,Thailand,16
+2013,China Eastern Airlines,Taiwan,262
+2013,China Eastern Airlines,UK,209
+2013,China Eastern Airlines,USA,971
+2013,China Eastern Airlines,Other,565
+2013,China Southern Airlines,Australia,"1,515"
+2013,China Southern Airlines,Austria,23
+2013,China Southern Airlines,Bangladesh,29
+2013,China Southern Airlines,Belgium,24
+2013,China Southern Airlines,Canada,873
+2013,China Southern Airlines,China,"5,051"
+2013,China Southern Airlines,Czech Republic,3
+2013,China Southern Airlines,Denmark,37
+2013,China Southern Airlines,France,115
+2013,China Southern Airlines,Germany,95
+2013,China Southern Airlines,India,912
+2013,China Southern Airlines,Israel,35
+2013,China Southern Airlines,Italy,83
+2013,China Southern Airlines,Japan,"3,022"
+2013,China Southern Airlines,Malaysia,21
+2013,China Southern Airlines,Netherland,41
+2013,China Southern Airlines,New Zealand,63
+2013,China Southern Airlines,Norway,8
+2013,China Southern Airlines,Pakistan,6
+2013,China Southern Airlines,Poland,11
+2013,China Southern Airlines,Republic of Korea,"1,705"
+2013,China Southern Airlines,Russian Federation,76
+2013,China Southern Airlines,Singapore,16
+2013,China Southern Airlines,Spain,78
+2013,China Southern Airlines,Sri Lanka,2
+2013,China Southern Airlines,Sweden,26
+2013,China Southern Airlines,Switzerland,20
+2013,China Southern Airlines,Thailand,9
+2013,China Southern Airlines,Taiwan,685
+2013,China Southern Airlines,UK,311
+2013,China Southern Airlines,USA,"1,177"
+2013,China Southern Airlines,Other,829
+2013,Dragon Air,Australia,"1,335"
+2013,Dragon Air,Austria,37
+2013,Dragon Air,Bangladesh,80
+2013,Dragon Air,Belgium,33
+2013,Dragon Air,Canada,"1,416"
+2013,Dragon Air,China,"7,104"
+2013,Dragon Air,Czech Republic,21
+2013,Dragon Air,Denmark,61
+2013,Dragon Air,France,296
+2013,Dragon Air,Germany,183
+2013,Dragon Air,India,740
+2013,Dragon Air,Israel,66
+2013,Dragon Air,Italy,63
+2013,Dragon Air,Japan,"4,109"
+2013,Dragon Air,Malaysia,"1,958"
+2013,Dragon Air,Netherland,114
+2013,Dragon Air,New Zealand,138
+2013,Dragon Air,Norway,32
+2013,Dragon Air,Pakistan,12
+2013,Dragon Air,Poland,15
+2013,Dragon Air,Republic of Korea,"1,953"
+2013,Dragon Air,Russian Federation,90
+2013,Dragon Air,Singapore,177
+2013,Dragon Air,Spain,77
+2013,Dragon Air,Sri Lanka,23
+2013,Dragon Air,Sweden,25
+2013,Dragon Air,Switzerland,55
+2013,Dragon Air,Thailand,49
+2013,Dragon Air,Taiwan,"2,836"
+2013,Dragon Air,UK,714
+2013,Dragon Air,USA,"1,598"
+2013,Dragon Air,Other,"1,721"
+2013,Etihad Airway,Australia,500
+2013,Etihad Airway,Austria,209
+2013,Etihad Airway,Bangladesh,55
+2013,Etihad Airway,Belgium,"1,210"
+2013,Etihad Airway,Canada,271
+2013,Etihad Airway,China,334
+2013,Etihad Airway,Czech Republic,97
+2013,Etihad Airway,Denmark,221
+2013,Etihad Airway,France,"1,986"
+2013,Etihad Airway,Germany,"3,815"
+2013,Etihad Airway,India,724
+2013,Etihad Airway,Israel,62
+2013,Etihad Airway,Italy,587
+2013,Etihad Airway,Japan,209
+2013,Etihad Airway,Malaysia,80
+2013,Etihad Airway,Netherland,871
+2013,Etihad Airway,New Zealand,83
+2013,Etihad Airway,Norway,230
+2013,Etihad Airway,Pakistan,276
+2013,Etihad Airway,Poland,79
+2013,Etihad Airway,Republic of Korea,189
+2013,Etihad Airway,Russian Federation,183
+2013,Etihad Airway,Singapore,65
+2013,Etihad Airway,Spain,152
+2013,Etihad Airway,Sri Lanka,43
+2013,Etihad Airway,Sweden,195
+2013,Etihad Airway,Switzerland,383
+2013,Etihad Airway,Thailand,7
+2013,Etihad Airway,Taiwan,19
+2013,Etihad Airway,UK,"2,721"
+2013,Etihad Airway,USA,"1,477"
+2013,Etihad Airway,Other,"2,155"
+2013,Fly Dubai,Australia,359
+2013,Fly Dubai,Austria,68
+2013,Fly Dubai,Bangladesh,65
+2013,Fly Dubai,Belgium,96
+2013,Fly Dubai,Canada,403
+2013,Fly Dubai,China,307
+2013,Fly Dubai,Czech Republic,53
+2013,Fly Dubai,Denmark,76
+2013,Fly Dubai,France,431
+2013,Fly Dubai,Germany,720
+2013,Fly Dubai,India,"2,234"
+2013,Fly Dubai,Israel,86
+2013,Fly Dubai,Italy,177
+2013,Fly Dubai,Japan,98
+2013,Fly Dubai,Malaysia,186
+2013,Fly Dubai,Netherland,269
+2013,Fly Dubai,New Zealand,165
+2013,Fly Dubai,Norway,46
+2013,Fly Dubai,Pakistan,347
+2013,Fly Dubai,Poland,72
+2013,Fly Dubai,Republic of Korea,80
+2013,Fly Dubai,Russian Federation,777
+2013,Fly Dubai,Singapore,46
+2013,Fly Dubai,Spain,285
+2013,Fly Dubai,Sri Lanka,46
+2013,Fly Dubai,Sweden,75
+2013,Fly Dubai,Switzerland,222
+2013,Fly Dubai,Thailand,13
+2013,Fly Dubai,Taiwan,34
+2013,Fly Dubai,UK,"1,639"
+2013,Fly Dubai,USA,"2,776"
+2013,Fly Dubai,Other,"2,796"
+2013,Air Arabia,Australia,57
+2013,Air Arabia,Austria,8
+2013,Air Arabia,Bangladesh,85
+2013,Air Arabia,Belgium,56
+2013,Air Arabia,Canada,87
+2013,Air Arabia,China,59
+2013,Air Arabia,Czech Republic,36
+2013,Air Arabia,Denmark,14
+2013,Air Arabia,France,134
+2013,Air Arabia,Germany,142
+2013,Air Arabia,India,"1,598"
+2013,Air Arabia,Israel,21
+2013,Air Arabia,Italy,19
+2013,Air Arabia,Japan,42
+2013,Air Arabia,Malaysia,19
+2013,Air Arabia,Netherland,12
+2013,Air Arabia,New Zealand,11
+2013,Air Arabia,Norway,7
+2013,Air Arabia,Pakistan,318
+2013,Air Arabia,Poland,21
+2013,Air Arabia,Republic of Korea,45
+2013,Air Arabia,Russian Federation,941
+2013,Air Arabia,Singapore,7
+2013,Air Arabia,Spain,50
+2013,Air Arabia,Sri Lanka,48
+2013,Air Arabia,Sweden,21
+2013,Air Arabia,Switzerland,18
+2013,Air Arabia,Thailand,3
+2013,Air Arabia,Taiwan,12
+2013,Air Arabia,UK,205
+2013,Air Arabia,USA,178
+2013,Air Arabia,Other,"1,656"
+2013,Gulf Air,Australia,39
+2013,Gulf Air,Austria,8
+2013,Gulf Air,Bangladesh,8
+2013,Gulf Air,Belgium,85
+2013,Gulf Air,Canada,225
+2013,Gulf Air,China,110
+2013,Gulf Air,Czech Republic,0
+2013,Gulf Air,Denmark,"1,887"
+2013,Gulf Air,France,692
+2013,Gulf Air,Germany,762
+2013,Gulf Air,India,228
+2013,Gulf Air,Israel,63
+2013,Gulf Air,Italy,35
+2013,Gulf Air,Japan,16
+2013,Gulf Air,Malaysia,0
+2013,Gulf Air,Netherland,72
+2013,Gulf Air,New Zealand,48
+2013,Gulf Air,Norway,242
+2013,Gulf Air,Pakistan,89
+2013,Gulf Air,Poland,12
+2013,Gulf Air,Republic of Korea,35
+2013,Gulf Air,Russian Federation,0
+2013,Gulf Air,Singapore,0
+2013,Gulf Air,Spain,49
+2013,Gulf Air,Sri Lanka,58
+2013,Gulf Air,Sweden,139
+2013,Gulf Air,Switzerland,0
+2013,Gulf Air,Thailand,0
+2013,Gulf Air,Taiwan,0
+2013,Gulf Air,UK,530
+2013,Gulf Air,USA,"3,448"
+2013,Gulf Air,Other,"1,390"
+2013,Indian Airlines,Australia,"1,584"
+2013,Indian Airlines,Austria,527
+2013,Indian Airlines,Bangladesh,187
+2013,Indian Airlines,Belgium,402
+2013,Indian Airlines,Canada,"1,170"
+2013,Indian Airlines,China,"2,025"
+2013,Indian Airlines,Czech Republic,91
+2013,Indian Airlines,Denmark,343
+2013,Indian Airlines,France,"5,063"
+2013,Indian Airlines,Germany,"2,968"
+2013,Indian Airlines,India,"40,903"
+2013,Indian Airlines,Israel,709
+2013,Indian Airlines,Italy,"2,651"
+2013,Indian Airlines,Japan,809
+2013,Indian Airlines,Malaysia,254
+2013,Indian Airlines,Netherland,641
+2013,Indian Airlines,New Zealand,176
+2013,Indian Airlines,Norway,228
+2013,Indian Airlines,Pakistan,53
+2013,Indian Airlines,Poland,331
+2013,Indian Airlines,Republic of Korea,874
+2013,Indian Airlines,Russian Federation,"1,117"
+2013,Indian Airlines,Singapore,122
+2013,Indian Airlines,Spain,"2,309"
+2013,Indian Airlines,Sri Lanka,97
+2013,Indian Airlines,Sweden,277
+2013,Indian Airlines,Switzerland,421
+2013,Indian Airlines,Thailand,176
+2013,Indian Airlines,Taiwan,278
+2013,Indian Airlines,UK,"4,111"
+2013,Indian Airlines,USA,"7,503"
+2013,Indian Airlines,Other,"6,320"
+2013,King Fisher,Australia,0
+2013,King Fisher,Austria,0
+2013,King Fisher,Bangladesh,548
+2013,King Fisher,Belgium,0
+2013,King Fisher,Canada,0
+2013,King Fisher,China,185
+2013,King Fisher,Czech Republic,0
+2013,King Fisher,Denmark,0
+2013,King Fisher,France,188
+2013,King Fisher,Germany,0
+2013,King Fisher,India,0
+2013,King Fisher,Israel,0
+2013,King Fisher,Italy,0
+2013,King Fisher,Japan,0
+2013,King Fisher,Malaysia,0
+2013,King Fisher,Netherland,0
+2013,King Fisher,New Zealand,0
+2013,King Fisher,Norway,0
+2013,King Fisher,Pakistan,0
+2013,King Fisher,Poland,0
+2013,King Fisher,Republic of Korea,0
+2013,King Fisher,Russian Federation,0
+2013,King Fisher,Singapore,0
+2013,King Fisher,Spain,0
+2013,King Fisher,Sri Lanka,0
+2013,King Fisher,Sweden,0
+2013,King Fisher,Switzerland,0
+2013,King Fisher,Thailand,0
+2013,King Fisher,Taiwan,0
+2013,King Fisher,UK,0
+2013,King Fisher,USA,984
+2013,King Fisher,Other,0
+2013,Druk Air,Australia,439
+2013,Druk Air,Austria,83
+2013,Druk Air,Bangladesh,192
+2013,Druk Air,Belgium,303
+2013,Druk Air,Canada,365
+2013,Druk Air,China,"2,537"
+2013,Druk Air,Czech Republic,46
+2013,Druk Air,Denmark,57
+2013,Druk Air,France,410
+2013,Druk Air,Germany,823
+2013,Druk Air,India,"1,257"
+2013,Druk Air,Israel,46
+2013,Druk Air,Italy,288
+2013,Druk Air,Japan,239
+2013,Druk Air,Malaysia,"1,655"
+2013,Druk Air,Netherland,262
+2013,Druk Air,New Zealand,29
+2013,Druk Air,Norway,22
+2013,Druk Air,Pakistan,25
+2013,Druk Air,Poland,37
+2013,Druk Air,Republic of Korea,168
+2013,Druk Air,Russian Federation,302
+2013,Druk Air,Singapore,94
+2013,Druk Air,Spain,263
+2013,Druk Air,Sri Lanka,10
+2013,Druk Air,Sweden,280
+2013,Druk Air,Switzerland,166
+2013,Druk Air,Thailand,26
+2013,Druk Air,Taiwan,251
+2013,Druk Air,UK,953
+2013,Druk Air,USA,"1,561"
+2013,Druk Air,Other,"5,604"
+2013,Korean Air,Australia,116
+2013,Korean Air,Austria,0
+2013,Korean Air,Bangladesh,56
+2013,Korean Air,Belgium,5
+2013,Korean Air,Canada,224
+2013,Korean Air,China,996
+2013,Korean Air,Czech Republic,9
+2013,Korean Air,Denmark,6
+2013,Korean Air,France,54
+2013,Korean Air,Germany,27
+2013,Korean Air,India,121
+2013,Korean Air,Israel,9
+2013,Korean Air,Italy,8
+2013,Korean Air,Japan,"2,287"
+2013,Korean Air,Malaysia,39
+2013,Korean Air,Netherland,11
+2013,Korean Air,New Zealand,14
+2013,Korean Air,Norway,14
+2013,Korean Air,Pakistan,23
+2013,Korean Air,Poland,1
+2013,Korean Air,Republic of Korea,"10,004"
+2013,Korean Air,Russian Federation,44
+2013,Korean Air,Singapore,7
+2013,Korean Air,Spain,15
+2013,Korean Air,Sri Lanka,2
+2013,Korean Air,Sweden,16
+2013,Korean Air,Switzerland,8
+2013,Korean Air,Thailand,1
+2013,Korean Air,Taiwan,164
+2013,Korean Air,UK,110
+2013,Korean Air,USA,"1,279"
+2013,Korean Air,Other,"1,881"
+2013,Silk Air,Australia,"2,583"
+2013,Silk Air,Austria,15
+2013,Silk Air,Bangladesh,41
+2013,Silk Air,Belgium,12
+2013,Silk Air,Canada,142
+2013,Silk Air,China,129
+2013,Silk Air,Czech Republic,3
+2013,Silk Air,Denmark,20
+2013,Silk Air,France,104
+2013,Silk Air,Germany,113
+2013,Silk Air,India,394
+2013,Silk Air,Israel,26
+2013,Silk Air,Italy,26
+2013,Silk Air,Japan,709
+2013,Silk Air,Malaysia,"1,330"
+2013,Silk Air,Netherland,236
+2013,Silk Air,New Zealand,376
+2013,Silk Air,Norway,18
+2013,Silk Air,Pakistan,21
+2013,Silk Air,Poland,4
+2013,Silk Air,Republic of Korea,416
+2013,Silk Air,Russian Federation,21
+2013,Silk Air,Singapore,"2,415"
+2013,Silk Air,Spain,43
+2013,Silk Air,Sri Lanka,63
+2013,Silk Air,Sweden,32
+2013,Silk Air,Switzerland,27
+2013,Silk Air,Thailand,7
+2013,Silk Air,Taiwan,40
+2013,Silk Air,UK,377
+2013,Silk Air,USA,"2,235"
+2013,Silk Air,Other,749
+2013,Nepal Airlines,Australia,238
+2013,Nepal Airlines,Austria,33
+2013,Nepal Airlines,Bangladesh,67
+2013,Nepal Airlines,Belgium,30
+2013,Nepal Airlines,Canada,281
+2013,Nepal Airlines,China,"3,512"
+2013,Nepal Airlines,Czech Republic,3
+2013,Nepal Airlines,Denmark,34
+2013,Nepal Airlines,France,156
+2013,Nepal Airlines,Germany,106
+2013,Nepal Airlines,India,754
+2013,Nepal Airlines,Israel,650
+2013,Nepal Airlines,Italy,46
+2013,Nepal Airlines,Japan,230
+2013,Nepal Airlines,Malaysia,"1,977"
+2013,Nepal Airlines,Netherland,105
+2013,Nepal Airlines,New Zealand,123
+2013,Nepal Airlines,Norway,11
+2013,Nepal Airlines,Pakistan,27
+2013,Nepal Airlines,Poland,14
+2013,Nepal Airlines,Republic of Korea,874
+2013,Nepal Airlines,Russian Federation,129
+2013,Nepal Airlines,Singapore,95
+2013,Nepal Airlines,Spain,48
+2013,Nepal Airlines,Sri Lanka,22
+2013,Nepal Airlines,Sweden,32
+2013,Nepal Airlines,Switzerland,42
+2013,Nepal Airlines,Thailand,553
+2013,Nepal Airlines,Taiwan,"1,139"
+2013,Nepal Airlines,UK,"1,088"
+2013,Nepal Airlines,USA,381
+2013,Nepal Airlines,Other,725
+2013,Pakistan Int'l Airlines,Australia,4
+2013,Pakistan Int'l Airlines,Austria,0
+2013,Pakistan Int'l Airlines,Bangladesh,28
+2013,Pakistan Int'l Airlines,Belgium,9
+2013,Pakistan Int'l Airlines,Canada,27
+2013,Pakistan Int'l Airlines,China,26
+2013,Pakistan Int'l Airlines,Czech Republic,0
+2013,Pakistan Int'l Airlines,Denmark,0
+2013,Pakistan Int'l Airlines,France,0
+2013,Pakistan Int'l Airlines,Germany,10
+2013,Pakistan Int'l Airlines,India,7
+2013,Pakistan Int'l Airlines,Israel,0
+2013,Pakistan Int'l Airlines,Italy,2
+2013,Pakistan Int'l Airlines,Japan,7
+2013,Pakistan Int'l Airlines,Malaysia,10
+2013,Pakistan Int'l Airlines,Netherland,0
+2013,Pakistan Int'l Airlines,New Zealand,0
+2013,Pakistan Int'l Airlines,Norway,3
+2013,Pakistan Int'l Airlines,Pakistan,"2,901"
+2013,Pakistan Int'l Airlines,Poland,0
+2013,Pakistan Int'l Airlines,Republic of Korea,5
+2013,Pakistan Int'l Airlines,Russian Federation,0
+2013,Pakistan Int'l Airlines,Singapore,6
+2013,Pakistan Int'l Airlines,Spain,3
+2013,Pakistan Int'l Airlines,Sri Lanka,0
+2013,Pakistan Int'l Airlines,Sweden,0
+2013,Pakistan Int'l Airlines,Switzerland,0
+2013,Pakistan Int'l Airlines,Thailand,2
+2013,Pakistan Int'l Airlines,Taiwan,28
+2013,Pakistan Int'l Airlines,UK,25
+2013,Pakistan Int'l Airlines,USA,169
+2013,Pakistan Int'l Airlines,Other,"3,271"
+2013,Qatar Airlines,Australia,966
+2013,Qatar Airlines,Austria,888
+2013,Qatar Airlines,Bangladesh,227
+2013,Qatar Airlines,Belgium,"1,240"
+2013,Qatar Airlines,Canada,"1,936"
+2013,Qatar Airlines,China,582
+2013,Qatar Airlines,Czech Republic,83
+2013,Qatar Airlines,Denmark,"2,668"
+2013,Qatar Airlines,France,"5,414"
+2013,Qatar Airlines,Germany,"3,804"
+2013,Qatar Airlines,India,"1,883"
+2013,Qatar Airlines,Israel,282
+2013,Qatar Airlines,Italy,"2,532"
+2013,Qatar Airlines,Japan,264
+2013,Qatar Airlines,Malaysia,129
+2013,Qatar Airlines,Netherland,"2,162"
+2013,Qatar Airlines,New Zealand,119
+2013,Qatar Airlines,Norway,"1,095"
+2013,Qatar Airlines,Pakistan,704
+2013,Qatar Airlines,Poland,850
+2013,Qatar Airlines,Republic of Korea,131
+2013,Qatar Airlines,Russian Federation,"1,503"
+2013,Qatar Airlines,Singapore,152
+2013,Qatar Airlines,Spain,"2,968"
+2013,Qatar Airlines,Sri Lanka,171
+2013,Qatar Airlines,Sweden,"1,239"
+2013,Qatar Airlines,Switzerland,"1,304"
+2013,Qatar Airlines,Thailand,55
+2013,Qatar Airlines,Taiwan,18
+2013,Qatar Airlines,UK,"7,069"
+2013,Qatar Airlines,USA,"5,748"
+2013,Qatar Airlines,Other,"5,522"
+2013,Jet Lite Ltd,Australia,0
+2013,Jet Lite Ltd,Austria,0
+2013,Jet Lite Ltd,Bangladesh,0
+2013,Jet Lite Ltd,Belgium,0
+2013,Jet Lite Ltd,Canada,0
+2013,Jet Lite Ltd,China,0
+2013,Jet Lite Ltd,Czech Republic,0
+2013,Jet Lite Ltd,Denmark,0
+2013,Jet Lite Ltd,France,0
+2013,Jet Lite Ltd,Germany,"9,505"
+2013,Jet Lite Ltd,India,0
+2013,Jet Lite Ltd,Israel,0
+2013,Jet Lite Ltd,Italy,0
+2013,Jet Lite Ltd,Japan,0
+2013,Jet Lite Ltd,Malaysia,0
+2013,Jet Lite Ltd,Netherland,0
+2013,Jet Lite Ltd,New Zealand,0
+2013,Jet Lite Ltd,Norway,0
+2013,Jet Lite Ltd,Pakistan,0
+2013,Jet Lite Ltd,Poland,0
+2013,Jet Lite Ltd,Republic of Korea,0
+2013,Jet Lite Ltd,Russian Federation,0
+2013,Jet Lite Ltd,Singapore,0
+2013,Jet Lite Ltd,Spain,0
+2013,Jet Lite Ltd,Sri Lanka,0
+2013,Jet Lite Ltd,Sweden,0
+2013,Jet Lite Ltd,Switzerland,0
+2013,Jet Lite Ltd,Thailand,0
+2013,Jet Lite Ltd,Taiwan,0
+2013,Jet Lite Ltd,UK,0
+2013,Jet Lite Ltd,USA,0
+2013,Jet Lite Ltd,Other,"16,594"
+2013,Spice Jet,Australia,383
+2013,Spice Jet,Austria,56
+2013,Spice Jet,Bangladesh,96
+2013,Spice Jet,Belgium,101
+2013,Spice Jet,Canada,336
+2013,Spice Jet,China,"1,311"
+2013,Spice Jet,Czech Republic,40
+2013,Spice Jet,Denmark,82
+2013,Spice Jet,France,740
+2013,Spice Jet,Germany,462
+2013,Spice Jet,India,"41,216"
+2013,Spice Jet,Israel,540
+2013,Spice Jet,Italy,342
+2013,Spice Jet,Japan,298
+2013,Spice Jet,Malaysia,120
+2013,Spice Jet,Netherland,151
+2013,Spice Jet,New Zealand,47
+2013,Spice Jet,Norway,45
+2013,Spice Jet,Pakistan,24
+2013,Spice Jet,Poland,196
+2013,Spice Jet,Republic of Korea,274
+2013,Spice Jet,Russian Federation,378
+2013,Spice Jet,Singapore,49
+2013,Spice Jet,Spain,603
+2013,Spice Jet,Sri Lanka,39
+2013,Spice Jet,Sweden,118
+2013,Spice Jet,Switzerland,103
+2013,Spice Jet,Thailand,20
+2013,Spice Jet,Taiwan,56
+2013,Spice Jet,UK,818
+2013,Spice Jet,USA,"1,495"
+2013,Spice Jet,Other,"2,572"
+2013,Thai Airlines,Australia,"4,181"
+2013,Thai Airlines,Austria,121
+2013,Thai Airlines,Bangladesh,203
+2013,Thai Airlines,Belgium,245
+2013,Thai Airlines,Canada,906
+2013,Thai Airlines,China,584
+2013,Thai Airlines,Czech Republic,119
+2013,Thai Airlines,Denmark,256
+2013,Thai Airlines,France,792
+2013,Thai Airlines,Germany,942
+2013,Thai Airlines,India,"1,190"
+2013,Thai Airlines,Israel,662
+2013,Thai Airlines,Italy,566
+2013,Thai Airlines,Japan,"9,526"
+2013,Thai Airlines,Malaysia,"1,591"
+2013,Thai Airlines,Netherland,447
+2013,Thai Airlines,New Zealand,360
+2013,Thai Airlines,Norway,346
+2013,Thai Airlines,Pakistan,176
+2013,Thai Airlines,Poland,96
+2013,Thai Airlines,Republic of Korea,"2,906"
+2013,Thai Airlines,Russian Federation,409
+2013,Thai Airlines,Singapore,"1,475"
+2013,Thai Airlines,Spain,415
+2013,Thai Airlines,Sri Lanka,722
+2013,Thai Airlines,Sweden,219
+2013,Thai Airlines,Switzerland,381
+2013,Thai Airlines,Thailand,"5,858"
+2013,Thai Airlines,Taiwan,"1,988"
+2013,Thai Airlines,UK,"1,557"
+2013,Thai Airlines,USA,"4,981"
+2013,Thai Airlines,Other,"4,090"
+2013,Oman Air,Australia,93
+2013,Oman Air,Austria,213
+2013,Oman Air,Bangladesh,9
+2013,Oman Air,Belgium,43
+2013,Oman Air,Canada,52
+2013,Oman Air,China,160
+2013,Oman Air,Czech Republic,19
+2013,Oman Air,Denmark,61
+2013,Oman Air,France,404
+2013,Oman Air,Germany,"2,635"
+2013,Oman Air,India,365
+2013,Oman Air,Israel,62
+2013,Oman Air,Italy,316
+2013,Oman Air,Japan,22
+2013,Oman Air,Malaysia,21
+2013,Oman Air,Netherland,67
+2013,Oman Air,New Zealand,8
+2013,Oman Air,Norway,2
+2013,Oman Air,Pakistan,352
+2013,Oman Air,Poland,12
+2013,Oman Air,Republic of Korea,3
+2013,Oman Air,Russian Federation,25
+2013,Oman Air,Singapore,22
+2013,Oman Air,Spain,40
+2013,Oman Air,Sri Lanka,19
+2013,Oman Air,Sweden,79
+2013,Oman Air,Switzerland,566
+2013,Oman Air,Thailand,11
+2013,Oman Air,Taiwan,10
+2013,Oman Air,UK,"1,402"
+2013,Oman Air,USA,263
+2013,Oman Air,Other,551
+2013,Others/Not specified,Australia,"1,033"
+2013,Others/Not specified,Austria,31
+2013,Others/Not specified,Bangladesh,"3,263"
+2013,Others/Not specified,Belgium,160
+2013,Others/Not specified,Canada,256
+2013,Others/Not specified,China,755
+2013,Others/Not specified,Czech Republic,22
+2013,Others/Not specified,Denmark,81
+2013,Others/Not specified,France,591
+2013,Others/Not specified,Germany,288
+2013,Others/Not specified,India,"13,853"
+2013,Others/Not specified,Israel,222
+2013,Others/Not specified,Italy,87
+2013,Others/Not specified,Japan,353
+2013,Others/Not specified,Malaysia,"2,726"
+2013,Others/Not specified,Netherland,611
+2013,Others/Not specified,New Zealand,169
+2013,Others/Not specified,Norway,0
+2013,Others/Not specified,Pakistan,35
+2013,Others/Not specified,Poland,196
+2013,Others/Not specified,Republic of Korea,172
+2013,Others/Not specified,Russian Federation,158
+2013,Others/Not specified,Singapore,225
+2013,Others/Not specified,Spain,293
+2013,Others/Not specified,Sri Lanka,96
+2013,Others/Not specified,Sweden,120
+2013,Others/Not specified,Switzerland,74
+2013,Others/Not specified,Thailand,164
+2013,Others/Not specified,Taiwan,78
+2013,Others/Not specified,UK,505
+2013,Others/Not specified,USA,991
+2013,Others/Not specified,Other,"1,566"
