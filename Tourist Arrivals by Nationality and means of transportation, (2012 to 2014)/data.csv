@@ -1,0 +1,361 @@
+Year AD,Year BS,Country,Means of Transportation,No of people
+2012,2069,Afghanistan,Air,494
+2012,2069,Afghanistan,Land,9
+2013,2070,Afghanistan,Air,0
+2013,2070,Afghanistan,Land,0
+2014,2071,Afghanistan,Air,0
+2014,2071,Afghanistan,Land,0
+2012,2069,Argentina,Air,918
+2012,2069,Argentina,Land,699
+2013,2070,Argentina,Air,0
+2013,2070,Argentina,Land,0
+2014,2071,Argentina,Air,0
+2014,2071,Argentina,Land,0
+2012,2069,Australia,Air,18522
+2012,2069,Australia,Land,3508
+2013,2070,Australia,Air,18250
+2013,2070,Australia,Land,2219
+2014,2071,Australia,Air,21841
+2014,2071,Australia,Land,2675
+2012,2069,Austria,Air,2875
+2012,2069,Austria,Land,922
+2013,2070,Austria,Air,2545
+2013,2070,Austria,Land,586
+2014,2071,Austria,Air,2932
+2014,2071,Austria,Land,388
+2012,2069,Bangladesh,Air,15807
+2012,2069,Bangladesh,Land,957
+2013,2070,Bangladesh,Air,21363
+2013,2070,Bangladesh,Land,1047
+2014,2071,Bangladesh,Air,16476
+2014,2071,Bangladesh,Land,5375
+2012,2069,Belgium,Air,4931
+2012,2069,Belgium,Land,1355
+2013,2070,Belgium,Air,4760
+2013,2070,Belgium,Land,568
+2014,2071,Belgium,Air,4806
+2014,2071,Belgium,Land,631
+2012,2069,Bhutan,Air,3357
+2012,2069,Bhutan,Land,826
+2013,2070,Bhutan,Air,0
+2013,2070,Bhutan,Land,0
+2014,2071,Bhutan,Air,0
+2014,2071,Bhutan,Land,0
+2012,2069,Brazil,Air,1240
+2012,2069,Brazil,Land,390
+2013,2070,Brazil,Air,0
+2013,2070,Brazil,Land,0
+2014,2071,Brazil,Air,0
+2014,2071,Brazil,Land,0
+2012,2069,Bulgaria,Air,585
+2012,2069,Bulgaria,Land,644
+2013,2070,Bulgaria,Air,0
+2013,2070,Bulgaria,Land,0
+2014,2071,Bulgaria,Air,0
+2014,2071,Bulgaria,Land,0
+2012,2069,Cambodia,Air,292
+2012,2069,Cambodia,Land,570
+2013,2070,Cambodia,Air,0
+2013,2070,Cambodia,Land,0
+2014,2071,Cambodia,Air,0
+2014,2071,Cambodia,Land,0
+2012,2069,Canada,Air,11510
+2012,2069,Canada,Land,1997
+2013,2070,Canada,Air,11084
+2013,2070,Canada,Land,1048
+2014,2071,Canada,Air,10199
+2014,2071,Canada,Land,1411
+2012,2069,China,Air,54007
+2012,2069,China,Land,17854
+2013,2070,China,Air,62616
+2013,2070,China,Land,50557
+2014,2071,China,Air,75599
+2014,2071,China,Land,48206
+2012,2069,Chinese Taipei,Air,0
+2012,2069,Chinese Taipei,Land,0
+2013,2070,Chinese Taipei,Air,7692
+2013,2070,Chinese Taipei,Land,1970
+2014,2071,Chinese Taipei,Air,7058
+2014,2071,Chinese Taipei,Land,2131
+2012,2069,Czech,Air,2040
+2012,2069,Czech,Land,1552
+2013,2070,Czech,Air,0
+2013,2070,Czech,Land,0
+2014,2071,Czech,Air,0
+2014,2071,Czech,Land,0
+2012,2069,Czech Republic,Air,0
+2012,2069,Czech Republic,Land,0
+2013,2070,Czech Republic,Air,976
+2013,2070,Czech Republic,Land,147
+2014,2071,Czech Republic,Air,0
+2014,2071,Czech Republic,Land,0
+2012,2069,Denmark,Air,5569
+2012,2069,Denmark,Land,1549
+2013,2070,Denmark,Air,4783
+2013,2070,Denmark,Land,537
+2014,2071,Denmark,Air,4554
+2014,2071,Denmark,Land,596
+2012,2069,Finland,Air,2198
+2012,2069,Finland,Land,266
+2013,2070,Finland,Air,0
+2013,2070,Finland,Land,0
+2014,2071,Finland,Air,0
+2014,2071,Finland,Land,0
+2012,2069,France,Air,24887
+2012,2069,France,Land,3918
+2013,2070,France,Air,19455
+2013,2070,France,Land,2387
+2014,2071,France,Air,21724
+2014,2071,France,Land,2373
+2012,2069,Germany,Air,25087
+2012,2069,Germany,Land,5322
+2013,2070,Germany,Air,19132
+2013,2070,Germany,Land,3131
+2014,2071,Germany,Air,14305
+2014,2071,Germany,Land,3723
+2012,2069,Greece,Air,640
+2012,2069,Greece,Land,51
+2013,2070,Greece,Air,0
+2013,2070,Greece,Land,0
+2014,2071,Greece,Air,0
+2014,2071,Greece,Land,0
+2012,2069,India,Air,165677
+2012,2069,India,Land,138
+2013,2070,India,Air,167282
+2013,2070,India,Land,13692
+2014,2071,India,Air,123770
+2014,2071,India,Land,11573
+2012,2069,Indonesia,Air,984
+2012,2069,Indonesia,Land,516
+2013,2070,Indonesia,Air,0
+2013,2070,Indonesia,Land,0
+2014,2071,Indonesia,Air,0
+2014,2071,Indonesia,Land,0
+2012,2069,Ireland,Air,1567
+2012,2069,Ireland,Land,451
+2013,2070,Ireland,Air,0
+2013,2070,Ireland,Land,0
+2014,2071,Ireland,Air,0
+2014,2071,Ireland,Land,0
+2012,2069,Israel,Air,6294
+2012,2069,Israel,Land,857
+2013,2070,Israel,Air,4668
+2013,2070,Israel,Land,769
+2014,2071,Israel,Air,5519
+2014,2071,Israel,Land,708
+2012,2069,Italy,Air,12384
+2012,2069,Italy,Land,2230
+2013,2070,Italy,Air,8774
+2013,2070,Italy,Land,1200
+2014,2071,Italy,Air,9028
+2014,2071,Italy,Land,1319
+2012,2069,Japan,Air,24840
+2012,2069,Japan,Land,3802
+2013,2070,Japan,Air,24172
+2013,2070,Japan,Land,2522
+2014,2071,Japan,Air,23479
+2014,2071,Japan,Land,2350
+2012,2069,Malaysia,Air,10209
+2012,2069,Malaysia,Land,1571
+2013,2070,Malaysia,Air,16993
+2013,2070,Malaysia,Land,1849
+2014,2071,Malaysia,Air,17176
+2014,2071,Malaysia,Land,1739
+2012,2069,Mexico,Air,1213
+2012,2069,Mexico,Land,251
+2013,2070,Mexico,Air,0
+2013,2070,Mexico,Land,0
+2014,2071,Mexico,Air,0
+2014,2071,Mexico,Land,0
+2012,2069,Myanmar,Air,847
+2012,2069,Myanmar,Land,8623
+2013,2070,Myanmar,Air,0
+2013,2070,Myanmar,Land,0
+2014,2071,Myanmar,Air,0
+2014,2071,Myanmar,Land,0
+2012,2069,Netherlands,Air,9259
+2012,2069,Netherlands,Land,6186
+2013,2070,Netherlands,Air,8013
+2013,2070,Netherlands,Land,2503
+2014,2071,Netherlands,Air,9111
+2014,2071,Netherlands,Land,3209
+2012,2069,New Zealand,Air,3060
+2012,2069,New Zealand,Land,697
+2013,2070,New Zealand,Air,2467
+2013,2070,New Zealand,Land,341
+2014,2071,New Zealand,Air,2955
+2014,2071,New Zealand,Land,262
+2012,2069,Norway,Air,2802
+2012,2069,Norway,Land,478
+2013,2070,Norway,Air,2358
+2013,2070,Norway,Land,193
+2014,2071,Norway,Air,2401
+2014,2071,Norway,Land,69
+2012,2069,Not Specified,Air,2752
+2012,2069,Not Specified,Land,2309
+2013,2070,Not Specified,Air,0
+2013,2070,Not Specified,Land,0
+2014,2071,Not Specified,Air,0
+2014,2071,Not Specified,Land,0
+2012,2069,Others,Air,15659
+2012,2069,Others,Land,2948
+2013,2070,Others,Air,46534
+2013,2070,Others,Land,38622
+2014,2071,Others,Air,75937
+2014,2071,Others,Land,38095
+2012,2069,Pakistan,Air,5054
+2012,2069,Pakistan,Land,18
+2013,2070,Pakistan,Air,4376
+2013,2070,Pakistan,Land,0
+2014,2071,Pakistan,Air,3959
+2014,2071,Pakistan,Land,5
+2012,2069,Philippines,Air,1718
+2012,2069,Philippines,Land,39
+2013,2070,Philippines,Air,0
+2013,2070,Philippines,Land,0
+2014,2071,Philippines,Air,0
+2014,2071,Philippines,Land,0
+2012,2069,Poland,Air,4175
+2012,2069,Poland,Land,1514
+2013,2070,Poland,Air,2499
+2013,2070,Poland,Land,939
+2014,2071,Poland,Air,0
+2014,2071,Poland,Land,0
+2012,2069,Portugal,Air,1037
+2012,2069,Portugal,Land,148
+2013,2070,Portugal,Air,0
+2013,2070,Portugal,Land,0
+2014,2071,Portugal,Air,0
+2014,2071,Portugal,Land,0
+2012,2069,Republic of Korea,Air,18976
+2012,2069,Republic of Korea,Land,7028
+2013,2070,Republic of Korea,Air,0
+2013,2070,Republic of Korea,Land,0
+2014,2071,Republic of Korea,Air,0
+2014,2071,Republic of Korea,Land,0
+2012,2069,Romania,Air,987
+2012,2069,Romania,Land,349
+2013,2070,Romania,Air,0
+2013,2070,Romania,Land,0
+2014,2071,Romania,Air,0
+2014,2071,Romania,Land,0
+2012,2069,Russia,Air,0
+2012,2069,Russia,Land,0
+2013,2070,Russia,Air,7562
+2013,2070,Russia,Land,651
+2014,2071,Russia,Air,0
+2014,2071,Russia,Land,0
+2012,2069,Russian Federation,Air,7805
+2012,2069,Russian Federation,Land,1868
+2013,2070,Russian Federation,Air,0
+2013,2070,Russian Federation,Land,0
+2014,2071,Russian Federation,Air,0
+2014,2071,Russian Federation,Land,0
+2012,2069,S. Korea,Air,0
+2012,2069,S. Korea,Land,0
+2013,2070,S. Korea,Air,19648
+2013,2070,S. Korea,Land,66
+2014,2071,S. Korea,Air,17592
+2014,2071,S. Korea,Land,5613
+2012,2069,Saudi Arabia,Air,1046
+2012,2069,Saudi Arabia,Land,163
+2013,2070,Saudi Arabia,Air,0
+2013,2070,Saudi Arabia,Land,0
+2014,2071,Saudi Arabia,Air,0
+2014,2071,Saudi Arabia,Land,0
+2012,2069,Singapore,Air,4300
+2012,2069,Singapore,Land,1326
+2013,2070,Singapore,Air,5536
+2013,2070,Singapore,Land,635
+2014,2071,Singapore,Air,5744
+2014,2071,Singapore,Land,664
+2012,2069,Slovakia,Air,896
+2012,2069,Slovakia,Land,371
+2013,2070,Slovakia,Air,0
+2013,2070,Slovakia,Land,0
+2014,2071,Slovakia,Air,0
+2014,2071,Slovakia,Land,0
+2012,2069,South Africa,Air,1205
+2012,2069,South Africa,Land,119
+2013,2070,South Africa,Air,0
+2013,2070,South Africa,Land,0
+2014,2071,South Africa,Air,0
+2014,2071,South Africa,Land,0
+2012,2069,Spain,Air,11500
+2012,2069,Spain,Land,3049
+2013,2070,Spain,Air,9031
+2013,2070,Spain,Land,1381
+2014,2071,Spain,Air,11701
+2014,2071,Spain,Land,1409
+2012,2069,Sri Lanka,Air,1993
+2012,2069,Sri Lanka,Land,67483
+2013,2070,Sri Lanka,Air,2154
+2013,2070,Sri Lanka,Land,30582
+2014,2071,Sri Lanka,Air,3905
+2014,2071,Sri Lanka,Land,33641
+2012,2069,Sweden,Air,3212
+2012,2069,Sweden,Land,1240
+2013,2070,Sweden,Air,3396
+2013,2070,Sweden,Land,458
+2014,2071,Sweden,Air,3082
+2014,2071,Sweden,Land,642
+2012,2069,Switzerland,Air,5467
+2012,2069,Switzerland,Land,1579
+2013,2070,Switzerland,Air,4197
+2013,2070,Switzerland,Land,706
+2014,2071,Switzerland,Air,5375
+2014,2071,Switzerland,Land,1072
+2012,2069,Taiwan,Air,7776
+2012,2069,Taiwan,Land,1052
+2013,2070,Taiwan,Air,0
+2013,2070,Taiwan,Land,0
+2014,2071,Taiwan,Air,0
+2014,2071,Taiwan,Land,0
+2012,2069,Thailand,Air,5890
+2012,2069,Thailand,Land,30728
+2013,2070,Thailand,Air,7102
+2013,2070,Thailand,Land,33867
+2014,2071,Thailand,Air,6315
+2014,2071,Thailand,Land,27107
+2012,2069,Turkey,Air,1514
+2012,2069,Turkey,Land,174
+2013,2070,Turkey,Air,0
+2013,2070,Turkey,Land,0
+2014,2071,Turkey,Air,0
+2014,2071,Turkey,Land,0
+2012,2069,U.K.,Air,0
+2012,2069,U.K.,Land,0
+2013,2070,U.K.,Air,32381
+2013,2070,U.K.,Land,3287
+2014,2071,U.K.,Air,33202
+2014,2071,U.K.,Land,3557
+2012,2069,U.S.A.,Air,0
+2012,2069,U.S.A.,Land,0
+2013,2070,U.S.A.,Air,43047
+2013,2070,U.S.A.,Land,4308
+2014,2071,U.S.A.,Air,46236
+2014,2071,U.S.A.,Land,3594
+2012,2069,UK,Air,36331
+2012,2069,UK,Land,4963
+2013,2070,UK,Air,0
+2013,2070,UK,Land,0
+2014,2071,UK,Air,0
+2014,2071,UK,Land,0
+2012,2069,Ukraine,Air,1452
+2012,2069,Ukraine,Land,434
+2013,2070,Ukraine,Air,0
+2013,2070,Ukraine,Land,0
+2014,2071,Ukraine,Air,0
+2014,2071,Ukraine,Land,0
+2012,2069,USA,Air,42622
+2012,2069,USA,Land,6363
+2013,2070,USA,Air,0
+2013,2070,USA,Land,0
+2014,2071,USA,Air,0
+2014,2071,USA,Land,0
+2012,2069,Vietnam,Air,796
+2012,2069,Vietnam,Land,1380
+2013,2070,Vietnam,Air,0
+2013,2070,Vietnam,Land,0
+2014,2071,Vietnam,Air,0
+2014,2071,Vietnam,Land,0
