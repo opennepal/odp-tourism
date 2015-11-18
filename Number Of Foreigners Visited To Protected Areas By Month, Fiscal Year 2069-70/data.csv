@@ -1,241 +1,481 @@
-Protected Area,Classification,Month,No of tourist
-Annapurna Conservation Area,Conservation Area,Shrawan,4386
-Annapurna Conservation Area,Conservation Area,Bhadra,5320
-Annapurna Conservation Area,Conservation Area,Aswin,23549
-Annapurna Conservation Area,Conservation Area,Kartik,15181
-Annapurna Conservation Area,Conservation Area,Mansir,6547
-Annapurna Conservation Area,Conservation Area,Paush,5302
-Annapurna Conservation Area,Conservation Area,Magh,6051
-Annapurna Conservation Area,Conservation Area,Fagun,7885
-Annapurna Conservation Area,Conservation Area,Chaitra,14853
-Annapurna Conservation Area,Conservation Area,Baisakh,12891
-Annapurna Conservation Area,Conservation Area,Jesth,6560
-Annapurna Conservation Area,Conservation Area,Asar,4688
-Apinappa Consersation Area,Conservation Area,Shrawan,-
-Apinappa Consersation Area,Conservation Area,Bhadra,-
-Apinappa Consersation Area,Conservation Area,Aswin,-
-Apinappa Consersation Area,Conservation Area,Kartik,-
-Apinappa Consersation Area,Conservation Area,Mansir,-
-Apinappa Consersation Area,Conservation Area,Paush,-
-Apinappa Consersation Area,Conservation Area,Magh,-
-Apinappa Consersation Area,Conservation Area,Fagun,-
-Apinappa Consersation Area,Conservation Area,Chaitra,-
-Apinappa Consersation Area,Conservation Area,Baisakh,-
-Apinappa Consersation Area,Conservation Area,Jesth,-
-Apinappa Consersation Area,Conservation Area,Asar,-
-Bardiya National Park,National Park,Shrawan,191
-Bardiya National Park,National Park,Bhadra,242
-Bardiya National Park,National Park,Aswin,944
-Bardiya National Park,National Park,Kartik,2622
-Bardiya National Park,National Park,Mansir,1530
-Bardiya National Park,National Park,Paush,1032
-Bardiya National Park,National Park,Magh,645
-Bardiya National Park,National Park,Fagun,1184
-Bardiya National Park,National Park,Chaitra,2183
-Bardiya National Park,National Park,Baisakh,1516
-Bardiya National Park,National Park,Jesth,722
-Bardiya National Park,National Park,Asar,163
-Banke National Park,National Park,Shrawan,-
-Banke National Park,National Park,Bhadra,-
-Banke National Park,National Park,Aswin,-
-Banke National Park,National Park,Kartik,-
-Banke National Park,National Park,Mansir,-
-Banke National Park,National Park,Paush,-
-Banke National Park,National Park,Magh,-
-Banke National Park,National Park,Fagun,-
-Banke National Park,National Park,Chaitra,-
-Banke National Park,National Park,Baisakh,-
-Banke National Park,National Park,Jesth,-
-Banke National Park,National Park,Asar,-
-Chitwan National Park,National Park,Shrawan,9869
-Chitwan National Park,National Park,Bhadra,7453
-Chitwan National Park,National Park,Aswin,15461
-Chitwan National Park,National Park,Kartik,22701
-Chitwan National Park,National Park,Mansir,14581
-Chitwan National Park,National Park,Paush,12134
-Chitwan National Park,National Park,Magh,10526
-Chitwan National Park,National Park,Fagun,14424
-Chitwan National Park,National Park,Chaitra,16987
-Chitwan National Park,National Park,Baisakh,13620
-Chitwan National Park,National Park,Jesth,9803
-Chitwan National Park,National Park,Asar,6190
-Dhorpatan Hunting Reserve,Hunting Reserve,Shrawan,-
-Dhorpatan Hunting Reserve,Hunting Reserve,Bhadra,-
-Dhorpatan Hunting Reserve,Hunting Reserve,Aswin,16
-Dhorpatan Hunting Reserve,Hunting Reserve,Kartik,29
-Dhorpatan Hunting Reserve,Hunting Reserve,Mansir,7
-Dhorpatan Hunting Reserve,Hunting Reserve,Paush,1
-Dhorpatan Hunting Reserve,Hunting Reserve,Magh,1
-Dhorpatan Hunting Reserve,Hunting Reserve,Fagun,8
-Dhorpatan Hunting Reserve,Hunting Reserve,Chaitra,6
-Dhorpatan Hunting Reserve,Hunting Reserve,Baisakh,8
-Dhorpatan Hunting Reserve,Hunting Reserve,Jesth,12
-Dhorpatan Hunting Reserve,Hunting Reserve,Asar,-
-Gaurishankar Conservation Area,Conservation Area,Shrawan,10
-Gaurishankar Conservation Area,Conservation Area,Bhadra,52
-Gaurishankar Conservation Area,Conservation Area,Aswin,359
-Gaurishankar Conservation Area,Conservation Area,Kartik,170
-Gaurishankar Conservation Area,Conservation Area,Mansir,34
-Gaurishankar Conservation Area,Conservation Area,Paush,38
-Gaurishankar Conservation Area,Conservation Area,Magh,22
-Gaurishankar Conservation Area,Conservation Area,Fagun,98
-Gaurishankar Conservation Area,Conservation Area,Chaitra,198
-Gaurishankar Conservation Area,Conservation Area,Baisakh,64
-Gaurishankar Conservation Area,Conservation Area,Jesth,23
-Gaurishankar Conservation Area,Conservation Area,Asar,36
-Kanchanjunga Conservation Area,Conservation Area,Shrawan,-
-Kanchanjunga Conservation Area,Conservation Area,Bhadra,20
-Kanchanjunga Conservation Area,Conservation Area,Aswin,162
-Kanchanjunga Conservation Area,Conservation Area,Kartik,233
-Kanchanjunga Conservation Area,Conservation Area,Mansir,15
-Kanchanjunga Conservation Area,Conservation Area,Paush,2
-Kanchanjunga Conservation Area,Conservation Area,Magh,-
-Kanchanjunga Conservation Area,Conservation Area,Fagun,9
-Kanchanjunga Conservation Area,Conservation Area,Chaitra,46
-Kanchanjunga Conservation Area,Conservation Area,Baisakh,84
-Kanchanjunga Conservation Area,Conservation Area,Jesth,11
-Kanchanjunga Conservation Area,Conservation Area,Asar,24
-Khaptad National Park,National Park,Shrawan,1
-Khaptad National Park,National Park,Bhadra,0
-Khaptad National Park,National Park,Aswin,0
-Khaptad National Park,National Park,Kartik,4
-Khaptad National Park,National Park,Mansir,1
-Khaptad National Park,National Park,Paush,0
-Khaptad National Park,National Park,Magh,1
-Khaptad National Park,National Park,Fagun,3
-Khaptad National Park,National Park,Chaitra,1
-Khaptad National Park,National Park,Baisakh,7
-Khaptad National Park,National Park,Jesth,0
-Khaptad National Park,National Park,Asar,1
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Shrawan,210
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Bhadra,239
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Aswin,211
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Kartik,406
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Mansir,440
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Paush,342
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Magh,398
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Fagun,481
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Chaitra,299
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Baisakh,434
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Jesth,387
-Koshi Tappu Wildlife Reserve,Wildlife Reserve,Asar,599
-Krishnasar Conservation Area,Conservation Area,Shrawan,-
-Krishnasar Conservation Area,Conservation Area,Bhadra,19
-Krishnasar Conservation Area,Conservation Area,Aswin,7
-Krishnasar Conservation Area,Conservation Area,Kartik,2
-Krishnasar Conservation Area,Conservation Area,Mansir,8
-Krishnasar Conservation Area,Conservation Area,Paush,-
-Krishnasar Conservation Area,Conservation Area,Magh,4
-Krishnasar Conservation Area,Conservation Area,Fagun,3
-Krishnasar Conservation Area,Conservation Area,Chaitra,6
-Krishnasar Conservation Area,Conservation Area,Baisakh,5
-Krishnasar Conservation Area,Conservation Area,Jesth,-
-Krishnasar Conservation Area,Conservation Area,Asar,-
-Langtang National Park,National Park,Shrawan,390
-Langtang National Park,National Park,Bhadra,454
-Langtang National Park,National Park,Aswin,2161
-Langtang National Park,National Park,Kartik,2316
-Langtang National Park,National Park,Mansir,1142
-Langtang National Park,National Park,Paush,603
-Langtang National Park,National Park,Magh,446
-Langtang National Park,National Park,Fagun,1051
-Langtang National Park,National Park,Chaitra,2746
-Langtang National Park,National Park,Baisakh,1413
-Langtang National Park,National Park,Jesth,435
-Langtang National Park,National Park,Asar,213
-Makalu Barun National Park,National Park,Shrawan,2
-Makalu Barun National Park,National Park,Bhadra,-
-Makalu Barun National Park,National Park,Aswin,115
-Makalu Barun National Park,National Park,Kartik,846
-Makalu Barun National Park,National Park,Mansir,115
-Makalu Barun National Park,National Park,Paush,3
-Makalu Barun National Park,National Park,Magh,-
-Makalu Barun National Park,National Park,Fagun,10
-Makalu Barun National Park,National Park,Chaitra,161
-Makalu Barun National Park,National Park,Baisakh,254
-Makalu Barun National Park,National Park,Jesth,17
-Makalu Barun National Park,National Park,Asar,0
-Manaslu Conservation Area,Conservation Area,Shrawan,38
-Manaslu Conservation Area,Conservation Area,Bhadra,316
-Manaslu Conservation Area,Conservation Area,Aswin,1208
-Manaslu Conservation Area,Conservation Area,Kartik,1134
-Manaslu Conservation Area,Conservation Area,Mansir,115
-Manaslu Conservation Area,Conservation Area,Paush,23
-Manaslu Conservation Area,Conservation Area,Magh,44
-Manaslu Conservation Area,Conservation Area,Fagun,218
-Manaslu Conservation Area,Conservation Area,Chaitra,681
-Manaslu Conservation Area,Conservation Area,Baisakh,353
-Manaslu Conservation Area,Conservation Area,Jesth,41
-Manaslu Conservation Area,Conservation Area,Asar,31
-Parsa Wildlife Reserve,Wildlife Reserve,Shrawan,15
-Parsa Wildlife Reserve,Wildlife Reserve,Bhadra,26
-Parsa Wildlife Reserve,Wildlife Reserve,Aswin,8
-Parsa Wildlife Reserve,Wildlife Reserve,Kartik,12
-Parsa Wildlife Reserve,Wildlife Reserve,Mansir,7
-Parsa Wildlife Reserve,Wildlife Reserve,Paush,16
-Parsa Wildlife Reserve,Wildlife Reserve,Magh,1
-Parsa Wildlife Reserve,Wildlife Reserve,Fagun,40
-Parsa Wildlife Reserve,Wildlife Reserve,Chaitra,9
-Parsa Wildlife Reserve,Wildlife Reserve,Baisakh,27
-Parsa Wildlife Reserve,Wildlife Reserve,Jesth,11
-Parsa Wildlife Reserve,Wildlife Reserve,Asar,20
-Rara National Park,National Park,Shrawan,6
-Rara National Park,National Park,Bhadra,11
-Rara National Park,National Park,Aswin,45
-Rara National Park,National Park,Kartik,28
-Rara National Park,National Park,Mansir,7
-Rara National Park,National Park,Paush,6
-Rara National Park,National Park,Magh,-
-Rara National Park,National Park,Fagun,-
-Rara National Park,National Park,Chaitra,23
-Rara National Park,National Park,Baisakh,16
-Rara National Park,National Park,Jesth,15
-Rara National Park,National Park,Asar,7
-Sagarmatha National Park,National Park,Shrawan,569
-Sagarmatha National Park,National Park,Bhadra,1047
-Sagarmatha National Park,National Park,Aswin,6649
-Sagarmatha National Park,National Park,Kartik,9105
-Sagarmatha National Park,National Park,Mansir,2772
-Sagarmatha National Park,National Park,Paush,1506
-Sagarmatha National Park,National Park,Magh,748
-Sagarmatha National Park,National Park,Fagun,2027
-Sagarmatha National Park,National Park,Chaitra,6179
-Sagarmatha National Park,National Park,Baisakh,4809
-Sagarmatha National Park,National Park,Jesth,1153
-Sagarmatha National Park,National Park,Asar,186
-Shey Phoksundo National Park,National Park,Shrawan,27
-Shey Phoksundo National Park,National Park,Bhadra,153
-Shey Phoksundo National Park,National Park,Aswin,237
-Shey Phoksundo National Park,National Park,Kartik,138
-Shey Phoksundo National Park,National Park,Mansir,6
-Shey Phoksundo National Park,National Park,Paush,-
-Shey Phoksundo National Park,National Park,Magh,4
-Shey Phoksundo National Park,National Park,Fagun,-
-Shey Phoksundo National Park,National Park,Chaitra,4
-Shey Phoksundo National Park,National Park,Baisakh,39
-Shey Phoksundo National Park,National Park,Jesth,9
-Shey Phoksundo National Park,National Park,Asar,3
-Shivapuri Nagarjun National Park,National Park,Shrawan,13095
-Shivapuri Nagarjun National Park,National Park,Bhadra,14546
-Shivapuri Nagarjun National Park,National Park,Aswin,12606
-Shivapuri Nagarjun National Park,National Park,Kartik,13661
-Shivapuri Nagarjun National Park,National Park,Mansir,13279
-Shivapuri Nagarjun National Park,National Park,Paush,13215
-Shivapuri Nagarjun National Park,National Park,Magh,9145
-Shivapuri Nagarjun National Park,National Park,Fagun,13186
-Shivapuri Nagarjun National Park,National Park,Chaitra,16302
-Shivapuri Nagarjun National Park,National Park,Baisakh,19332
-Shivapuri Nagarjun National Park,National Park,Jesth,15486
-Shivapuri Nagarjun National Park,National Park,Asar,12051
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Shrawan,-
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Bhadra,-
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Aswin,22
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Kartik,71
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Mansir,41
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Paush,44
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Magh,20
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Fagun,64
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Chaitra,110
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Baisakh,38
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Jesth,46
-Shukla Phata Wildlife Reserve,Wildlife Reserve,Asar,15
+Year BS,Year AD,Protected Area,Classification,Month,No of tourist
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Shrawan,4386
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Bhadra,5320
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Aswin,23549
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Kartik,15181
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Mansir,6547
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Paush,5302
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Magh,6051
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Fagun,7885
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Chaitra,14853
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Baisakh,12891
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Jesth,6560
+2069/70,2012/13,Annapurna Conservation Area,Conservation Area,Asar,4688
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Shrawan,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Bhadra,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Aswin,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Kartik,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Mansir,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Paush,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Magh,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Fagun,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Chaitra,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Baisakh,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Jesth,-
+2069/70,2012/13,Apinappa Consersation Area,Conservation Area,Asar,-
+2069/70,2012/13,Bardiya National Park,National Park,Shrawan,191
+2069/70,2012/13,Bardiya National Park,National Park,Bhadra,242
+2069/70,2012/13,Bardiya National Park,National Park,Aswin,944
+2069/70,2012/13,Bardiya National Park,National Park,Kartik,2622
+2069/70,2012/13,Bardiya National Park,National Park,Mansir,1530
+2069/70,2012/13,Bardiya National Park,National Park,Paush,1032
+2069/70,2012/13,Bardiya National Park,National Park,Magh,645
+2069/70,2012/13,Bardiya National Park,National Park,Fagun,1184
+2069/70,2012/13,Bardiya National Park,National Park,Chaitra,2183
+2069/70,2012/13,Bardiya National Park,National Park,Baisakh,1516
+2069/70,2012/13,Bardiya National Park,National Park,Jesth,722
+2069/70,2012/13,Bardiya National Park,National Park,Asar,163
+2069/70,2012/13,Banke National Park,National Park,Shrawan,-
+2069/70,2012/13,Banke National Park,National Park,Bhadra,-
+2069/70,2012/13,Banke National Park,National Park,Aswin,-
+2069/70,2012/13,Banke National Park,National Park,Kartik,-
+2069/70,2012/13,Banke National Park,National Park,Mansir,-
+2069/70,2012/13,Banke National Park,National Park,Paush,-
+2069/70,2012/13,Banke National Park,National Park,Magh,-
+2069/70,2012/13,Banke National Park,National Park,Fagun,-
+2069/70,2012/13,Banke National Park,National Park,Chaitra,-
+2069/70,2012/13,Banke National Park,National Park,Baisakh,-
+2069/70,2012/13,Banke National Park,National Park,Jesth,-
+2069/70,2012/13,Banke National Park,National Park,Asar,-
+2069/70,2012/13,Chitwan National Park,National Park,Shrawan,9869
+2069/70,2012/13,Chitwan National Park,National Park,Bhadra,7453
+2069/70,2012/13,Chitwan National Park,National Park,Aswin,15461
+2069/70,2012/13,Chitwan National Park,National Park,Kartik,22701
+2069/70,2012/13,Chitwan National Park,National Park,Mansir,14581
+2069/70,2012/13,Chitwan National Park,National Park,Paush,12134
+2069/70,2012/13,Chitwan National Park,National Park,Magh,10526
+2069/70,2012/13,Chitwan National Park,National Park,Fagun,14424
+2069/70,2012/13,Chitwan National Park,National Park,Chaitra,16987
+2069/70,2012/13,Chitwan National Park,National Park,Baisakh,13620
+2069/70,2012/13,Chitwan National Park,National Park,Jesth,9803
+2069/70,2012/13,Chitwan National Park,National Park,Asar,6190
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Shrawan,-
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Bhadra,-
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Aswin,16
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Kartik,29
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Mansir,7
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Paush,1
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Magh,1
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Fagun,8
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Chaitra,6
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Baisakh,8
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Jesth,12
+2069/70,2012/13,Dhorpatan Hunting Reserve,Hunting Reserve,Asar,-
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Shrawan,10
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Bhadra,52
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Aswin,359
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Kartik,170
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Mansir,34
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Paush,38
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Magh,22
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Fagun,98
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Chaitra,198
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Baisakh,64
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Jesth,23
+2069/70,2012/13,Gaurishankar Conservation Area,Conservation Area,Asar,36
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Shrawan,-
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Bhadra,20
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Aswin,162
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Kartik,233
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Mansir,15
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Paush,2
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Magh,-
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Fagun,9
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Chaitra,46
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Baisakh,84
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Jesth,11
+2069/70,2012/13,Kanchanjunga Conservation Area,Conservation Area,Asar,24
+2069/70,2012/13,Khaptad National Park,National Park,Shrawan,1
+2069/70,2012/13,Khaptad National Park,National Park,Bhadra,0
+2069/70,2012/13,Khaptad National Park,National Park,Aswin,0
+2069/70,2012/13,Khaptad National Park,National Park,Kartik,4
+2069/70,2012/13,Khaptad National Park,National Park,Mansir,1
+2069/70,2012/13,Khaptad National Park,National Park,Paush,0
+2069/70,2012/13,Khaptad National Park,National Park,Magh,1
+2069/70,2012/13,Khaptad National Park,National Park,Fagun,3
+2069/70,2012/13,Khaptad National Park,National Park,Chaitra,1
+2069/70,2012/13,Khaptad National Park,National Park,Baisakh,7
+2069/70,2012/13,Khaptad National Park,National Park,Jesth,0
+2069/70,2012/13,Khaptad National Park,National Park,Asar,1
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Shrawan,210
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Bhadra,239
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Aswin,211
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Kartik,406
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Mansir,440
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Paush,342
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Magh,398
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Fagun,481
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Chaitra,299
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Baisakh,434
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Jesth,387
+2069/70,2012/13,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Asar,599
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Shrawan,-
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Bhadra,19
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Aswin,7
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Kartik,2
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Mansir,8
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Paush,-
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Magh,4
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Fagun,3
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Chaitra,6
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Baisakh,5
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Jesth,-
+2069/70,2012/13,Krishnasar Conservation Area,Conservation Area,Asar,-
+2069/70,2012/13,Langtang National Park,National Park,Shrawan,390
+2069/70,2012/13,Langtang National Park,National Park,Bhadra,454
+2069/70,2012/13,Langtang National Park,National Park,Aswin,2161
+2069/70,2012/13,Langtang National Park,National Park,Kartik,2316
+2069/70,2012/13,Langtang National Park,National Park,Mansir,1142
+2069/70,2012/13,Langtang National Park,National Park,Paush,603
+2069/70,2012/13,Langtang National Park,National Park,Magh,446
+2069/70,2012/13,Langtang National Park,National Park,Fagun,1051
+2069/70,2012/13,Langtang National Park,National Park,Chaitra,2746
+2069/70,2012/13,Langtang National Park,National Park,Baisakh,1413
+2069/70,2012/13,Langtang National Park,National Park,Jesth,435
+2069/70,2012/13,Langtang National Park,National Park,Asar,213
+2069/70,2012/13,Makalu Barun National Park,National Park,Shrawan,2
+2069/70,2012/13,Makalu Barun National Park,National Park,Bhadra,-
+2069/70,2012/13,Makalu Barun National Park,National Park,Aswin,115
+2069/70,2012/13,Makalu Barun National Park,National Park,Kartik,846
+2069/70,2012/13,Makalu Barun National Park,National Park,Mansir,115
+2069/70,2012/13,Makalu Barun National Park,National Park,Paush,3
+2069/70,2012/13,Makalu Barun National Park,National Park,Magh,-
+2069/70,2012/13,Makalu Barun National Park,National Park,Fagun,10
+2069/70,2012/13,Makalu Barun National Park,National Park,Chaitra,161
+2069/70,2012/13,Makalu Barun National Park,National Park,Baisakh,254
+2069/70,2012/13,Makalu Barun National Park,National Park,Jesth,17
+2069/70,2012/13,Makalu Barun National Park,National Park,Asar,0
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Shrawan,38
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Bhadra,316
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Aswin,1208
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Kartik,1134
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Mansir,115
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Paush,23
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Magh,44
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Fagun,218
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Chaitra,681
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Baisakh,353
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Jesth,41
+2069/70,2012/13,Manaslu Conservation Area,Conservation Area,Asar,31
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Shrawan,15
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Bhadra,26
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Aswin,8
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Kartik,12
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Mansir,7
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Paush,16
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Magh,1
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Fagun,40
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Chaitra,9
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Baisakh,27
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Jesth,11
+2069/70,2012/13,Parsa Wildlife Reserve,Wildlife Reserve,Asar,20
+2069/70,2012/13,Rara National Park,National Park,Shrawan,6
+2069/70,2012/13,Rara National Park,National Park,Bhadra,11
+2069/70,2012/13,Rara National Park,National Park,Aswin,45
+2069/70,2012/13,Rara National Park,National Park,Kartik,28
+2069/70,2012/13,Rara National Park,National Park,Mansir,7
+2069/70,2012/13,Rara National Park,National Park,Paush,6
+2069/70,2012/13,Rara National Park,National Park,Magh,-
+2069/70,2012/13,Rara National Park,National Park,Fagun,-
+2069/70,2012/13,Rara National Park,National Park,Chaitra,23
+2069/70,2012/13,Rara National Park,National Park,Baisakh,16
+2069/70,2012/13,Rara National Park,National Park,Jesth,15
+2069/70,2012/13,Rara National Park,National Park,Asar,7
+2069/70,2012/13,Sagarmatha National Park,National Park,Shrawan,569
+2069/70,2012/13,Sagarmatha National Park,National Park,Bhadra,1047
+2069/70,2012/13,Sagarmatha National Park,National Park,Aswin,6649
+2069/70,2012/13,Sagarmatha National Park,National Park,Kartik,9105
+2069/70,2012/13,Sagarmatha National Park,National Park,Mansir,2772
+2069/70,2012/13,Sagarmatha National Park,National Park,Paush,1506
+2069/70,2012/13,Sagarmatha National Park,National Park,Magh,748
+2069/70,2012/13,Sagarmatha National Park,National Park,Fagun,2027
+2069/70,2012/13,Sagarmatha National Park,National Park,Chaitra,6179
+2069/70,2012/13,Sagarmatha National Park,National Park,Baisakh,4809
+2069/70,2012/13,Sagarmatha National Park,National Park,Jesth,1153
+2069/70,2012/13,Sagarmatha National Park,National Park,Asar,186
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Shrawan,27
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Bhadra,153
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Aswin,237
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Kartik,138
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Mansir,6
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Paush,-
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Magh,4
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Fagun,-
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Chaitra,4
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Baisakh,39
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Jesth,9
+2069/70,2012/13,Shey Phoksundo National Park,National Park,Asar,3
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Shrawan,13095
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Bhadra,14546
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Aswin,12606
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Kartik,13661
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Mansir,13279
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Paush,13215
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Magh,9145
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Fagun,13186
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Chaitra,16302
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Baisakh,19332
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Jesth,15486
+2069/70,2012/13,Shivapuri Nagarjun National Park,National Park,Asar,12051
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Shrawan,-
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Bhadra,-
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Aswin,22
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Kartik,71
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Mansir,41
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Paush,44
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Magh,20
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Fagun,64
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Chaitra,110
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Baisakh,38
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Jesth,46
+2069/70,2012/13,Shukla Phata Wildlife Reserve,Wildlife Reserve,Asar,15
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Shrawan,11
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Bhadra,102
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Aswin,623
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Kartik,2132
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Mansir,629
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Paush,80
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Magh,21
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Fagun,86
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Chaitra,571
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Baisakh,896
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Jesth,183
+2070/71,2013/14,Annapurna Conservation Area,Conservation Area,Asar,18
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Shrawan,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Bhadra,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Aswin,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Kartik,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Mansir,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Paush,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Magh,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Fagun,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Chaitra,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Baisakh,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Jesth,0
+2070/71,2013/14,Apinappa Consersation Area,Conservation Area,Asar,0
+2070/71,2013/14,Bardiya National Park,National Park,Shrawan,201
+2070/71,2013/14,Bardiya National Park,National Park,Bhadra,332
+2070/71,2013/14,Bardiya National Park,National Park,Aswin,1265
+2070/71,2013/14,Bardiya National Park,National Park,Kartik,2998
+2070/71,2013/14,Bardiya National Park,National Park,Mansir,2080
+2070/71,2013/14,Bardiya National Park,National Park,Paush,1062
+2070/71,2013/14,Bardiya National Park,National Park,Magh,933
+2070/71,2013/14,Bardiya National Park,National Park,Fagun,811
+2070/71,2013/14,Bardiya National Park,National Park,Chaitra,1996
+2070/71,2013/14,Bardiya National Park,National Park,Baisakh,1382
+2070/71,2013/14,Bardiya National Park,National Park,Jesth,788
+2070/71,2013/14,Bardiya National Park,National Park,Asar,349
+2070/71,2013/14,Banke National Park,National Park,Shrawan,0
+2070/71,2013/14,Banke National Park,National Park,Bhadra,0
+2070/71,2013/14,Banke National Park,National Park,Aswin,0
+2070/71,2013/14,Banke National Park,National Park,Kartik,0
+2070/71,2013/14,Banke National Park,National Park,Mansir,0
+2070/71,2013/14,Banke National Park,National Park,Paush,0
+2070/71,2013/14,Banke National Park,National Park,Magh,0
+2070/71,2013/14,Banke National Park,National Park,Fagun,0
+2070/71,2013/14,Banke National Park,National Park,Chaitra,0
+2070/71,2013/14,Banke National Park,National Park,Baisakh,0
+2070/71,2013/14,Banke National Park,National Park,Jesth,0
+2070/71,2013/14,Banke National Park,National Park,Asar,0
+2070/71,2013/14,Chitwan National Park,National Park,Shrawan,12814
+2070/71,2013/14,Chitwan National Park,National Park,Bhadra,8542
+2070/71,2013/14,Chitwan National Park,National Park,Aswin,17410
+2070/71,2013/14,Chitwan National Park,National Park,Kartik,20772
+2070/71,2013/14,Chitwan National Park,National Park,Mansir,13822
+2070/71,2013/14,Chitwan National Park,National Park,Paush,13453
+2070/71,2013/14,Chitwan National Park,National Park,Magh,15056
+2070/71,2013/14,Chitwan National Park,National Park,Fagun,14749
+2070/71,2013/14,Chitwan National Park,National Park,Chaitra,17620
+2070/71,2013/14,Chitwan National Park,National Park,Baisakh,16975
+2070/71,2013/14,Chitwan National Park,National Park,Jesth,12661
+2070/71,2013/14,Chitwan National Park,National Park,Asar,9551
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Shrawan,1
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Bhadra,10
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Aswin,27
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Kartik,10
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Mansir,3
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Paush,1
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Magh,1
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Fagun,7
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Chaitra,6
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Baisakh,19
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Jesth,4
+2070/71,2013/14,Dhorpatan Hunting Reserve,Hunting Reserve,Asar,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Shrawan,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Bhadra,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Aswin,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Kartik,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Mansir,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Paush,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Magh,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Fagun,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Chaitra,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Baisakh,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Jesth,0
+2070/71,2013/14,Gaurishankar Conservation Area,Conservation Area,Asar,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Shrawan,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Bhadra,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Aswin,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Kartik,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Mansir,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Paush,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Magh,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Fagun,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Chaitra,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Baisakh,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Jesth,0
+2070/71,2013/14,Kanchanjunga Conservation Area,Conservation Area,Asar,0
+2070/71,2013/14,Khaptad National Park,National Park,Shrawan,1
+2070/71,2013/14,Khaptad National Park,National Park,Bhadra,2
+2070/71,2013/14,Khaptad National Park,National Park,Aswin,0
+2070/71,2013/14,Khaptad National Park,National Park,Kartik,9
+2070/71,2013/14,Khaptad National Park,National Park,Mansir,1
+2070/71,2013/14,Khaptad National Park,National Park,Paush,0
+2070/71,2013/14,Khaptad National Park,National Park,Magh,1
+2070/71,2013/14,Khaptad National Park,National Park,Fagun,2
+2070/71,2013/14,Khaptad National Park,National Park,Chaitra,15
+2070/71,2013/14,Khaptad National Park,National Park,Baisakh,9
+2070/71,2013/14,Khaptad National Park,National Park,Jesth,3
+2070/71,2013/14,Khaptad National Park,National Park,Asar,4
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Shrawan,226
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Bhadra,121
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Aswin,486
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Kartik,494
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Mansir,939
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Paush,902
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Magh,665
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Fagun,862
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Chaitra,392
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Baisakh,769
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Jesth,285
+2070/71,2013/14,Koshi Tappu Wildlife Reserve,Wildlife Reserve,Asar,1208
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Shrawan,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Bhadra,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Aswin,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Kartik,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Mansir,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Paush,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Magh,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Fagun,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Chaitra,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Baisakh,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Jesth,0
+2070/71,2013/14,Krishnasar Conservation Area,Conservation Area,Asar,0
+2070/71,2013/14,Langtang National Park,National Park,Shrawan,243
+2070/71,2013/14,Langtang National Park,National Park,Bhadra,448
+2070/71,2013/14,Langtang National Park,National Park,Aswin,1736
+2070/71,2013/14,Langtang National Park,National Park,Kartik,2642
+2070/71,2013/14,Langtang National Park,National Park,Mansir,933
+2070/71,2013/14,Langtang National Park,National Park,Paush,458
+2070/71,2013/14,Langtang National Park,National Park,Magh,338
+2070/71,2013/14,Langtang National Park,National Park,Fagun,803
+2070/71,2013/14,Langtang National Park,National Park,Chaitra,1791
+2070/71,2013/14,Langtang National Park,National Park,Baisakh,2024
+2070/71,2013/14,Langtang National Park,National Park,Jesth,661
+2070/71,2013/14,Langtang National Park,National Park,Asar,475
+2070/71,2013/14,Makalu Barun National Park,National Park,Shrawan,0
+2070/71,2013/14,Makalu Barun National Park,National Park,Bhadra,11
+2070/71,2013/14,Makalu Barun National Park,National Park,Aswin,78
+2070/71,2013/14,Makalu Barun National Park,National Park,Kartik,552
+2070/71,2013/14,Makalu Barun National Park,National Park,Mansir,44
+2070/71,2013/14,Makalu Barun National Park,National Park,Paush,8
+2070/71,2013/14,Makalu Barun National Park,National Park,Magh,0
+2070/71,2013/14,Makalu Barun National Park,National Park,Fagun,21
+2070/71,2013/14,Makalu Barun National Park,National Park,Chaitra,189
+2070/71,2013/14,Makalu Barun National Park,National Park,Baisakh,24
+2070/71,2013/14,Makalu Barun National Park,National Park,Jesth,24
+2070/71,2013/14,Makalu Barun National Park,National Park,Asar,132
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Shrawan,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Bhadra,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Aswin,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Kartik,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Mansir,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Paush,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Magh,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Fagun,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Chaitra,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Baisakh,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Jesth,0
+2070/71,2013/14,Manaslu Conservation Area,Conservation Area,Asar,0
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Shrawan,44
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Bhadra,16
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Aswin,5
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Kartik,8
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Mansir,31
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Paush,41
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Magh,73
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Fagun,38
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Chaitra,24
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Baisakh,16
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Jesth,7
+2070/71,2013/14,Parsa Wildlife Reserve,Wildlife Reserve,Asar,73
+2070/71,2013/14,Rara National Park,National Park,Shrawan,1
+2070/71,2013/14,Rara National Park,National Park,Bhadra,7
+2070/71,2013/14,Rara National Park,National Park,Aswin,27
+2070/71,2013/14,Rara National Park,National Park,Kartik,39
+2070/71,2013/14,Rara National Park,National Park,Mansir,8
+2070/71,2013/14,Rara National Park,National Park,Paush,12
+2070/71,2013/14,Rara National Park,National Park,Magh,1
+2070/71,2013/14,Rara National Park,National Park,Fagun,5
+2070/71,2013/14,Rara National Park,National Park,Chaitra,32
+2070/71,2013/14,Rara National Park,National Park,Baisakh,26
+2070/71,2013/14,Rara National Park,National Park,Jesth,15
+2070/71,2013/14,Rara National Park,National Park,Asar,8
+2070/71,2013/14,Sagarmatha National Park,National Park,Shrawan,292
+2070/71,2013/14,Sagarmatha National Park,National Park,Bhadra,931
+2070/71,2013/14,Sagarmatha National Park,National Park,Aswin,6462
+2070/71,2013/14,Sagarmatha National Park,National Park,Kartik,8379
+2070/71,2013/14,Sagarmatha National Park,National Park,Mansir,2665
+2070/71,2013/14,Sagarmatha National Park,National Park,Paush,1375
+2070/71,2013/14,Sagarmatha National Park,National Park,Magh,858
+2070/71,2013/14,Sagarmatha National Park,National Park,Fagun,1931
+2070/71,2013/14,Sagarmatha National Park,National Park,Chaitra,5362
+2070/71,2013/14,Sagarmatha National Park,National Park,Baisakh,5602
+2070/71,2013/14,Sagarmatha National Park,National Park,Jesth,1062
+2070/71,2013/14,Sagarmatha National Park,National Park,Asar,238
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Shrawan,30
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Bhadra,50
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Aswin,145
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Kartik,35
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Mansir,10
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Paush,0
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Magh,0
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Fagun,0
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Chaitra,0
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Baisakh,64
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Jesth,39
+2070/71,2013/14,Shey Phoksundo National Park,National Park,Asar,44
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Shrawan,12489
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Bhadra,15784
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Aswin,10819
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Kartik,13187
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Mansir,10915
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Paush,14792
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Magh,13314
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Fagun,13654
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Chaitra,19931
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Baisakh,19721
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Jesth,18123
+2070/71,2013/14,Shivapuri Nagarjun National Park,National Park,Asar,17735
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Shrawan,0
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Bhadra,5
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Aswin,51
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Kartik,110
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Mansir,131
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Paush,89
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Magh,61
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Fagun,124
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Chaitra,131
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Baisakh,161
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Jesth,93
+2070/71,2013/14,Shukla Phata Wildlife Reserve,Wildlife Reserve,Asar,28
